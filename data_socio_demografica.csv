@@ -1,0 +1,2001 @@
+ID,Sexo,Estado civil,Edad,Educacion,Ingreso anual,Ocupacion,Tamano de asentamiento
+100000001,Mujer,soltero/a,67,universidad,124670,empleado/a calificado/a / funcionario/a,2
+100000002,Hombre,,22,secundaria,150773,empleado/a calificado/a / funcionario/a,2
+100000003,Mujer,soltero/a,49,secundaria,89210,desempleado/a / no calificado/a,0
+100000004,Mujer,soltero/a,45,secundaria,171565,empleado/a calificado/a / funcionario/a,1
+100000005,Mujer,soltero/a,53,secundaria,149031,empleado/a calificado/a / funcionario/a,1
+100000006,Mujer,soltero/a,35,secundaria,144848,desempleado/a / no calificado/a,0
+100000007,Mujer,soltero/a,53,secundaria,156495,empleado/a calificado/a / funcionario/a,1
+100000008,Mujer,soltero/a,35,secundaria,193621,,1
+100000009,Mujer,,61,universidad,151591,desempleado/a / no calificado/a,0
+100000010,Mujer,,28,secundaria,174646,,0
+100000011,Hombre,,25,secundaria,108469,empleado/a calificado/a / funcionario/a,0
+100000012,Hombre,,24,secundaria,127596,empleado/a calificado/a / funcionario/a,0
+100000013,Hombre,,22,secundaria,108687,empleado/a calificado/a / funcionario/a,2
+100000014,Mujer,soltero/a,60,universidad,89374,desempleado/a / no calificado/a,0
+100000015,Hombre,,28,secundaria,102899,empleado/a calificado/a / funcionario/a,1
+100000016,Hombre,,32,secundaria,88428,desempleado/a / no calificado/a,0
+100000017,Mujer,soltero/a,53,secundaria,125550,empleado/a calificado/a / funcionario/a,0
+100000018,Mujer,soltero/a,25,,157434,empleado/a calificado/a / funcionario/a,2
+100000019,Hombre,,44,universidad,261952,,2
+100000020,Mujer,soltero/a,31,,144657,empleado/a calificado/a / funcionario/a,1
+100000021,Mujer,soltero/a,48,secundaria,118777,empleado/a calificado/a / funcionario/a,1
+100000022,Mujer,soltero/a,44,secundaria,147511,empleado/a calificado/a / funcionario/a,1
+100000023,Mujer,soltero/a,48,secundaria,89804,desempleado/a / no calificado/a,0
+100000024,Mujer,soltero/a,44,secundaria,134918,empleado/a calificado/a / funcionario/a,2
+100000025,Mujer,,26,secundaria,103667,empleado/a calificado/a / funcionario/a,2
+100000026,Mujer,soltero/a,36,secundaria,71909,desempleado/a / no calificado/a,0
+100000027,Mujer,,39,secundaria,68264,desempleado/a / no calificado/a,0
+100000028,Hombre,,42,universidad,163025,empleado/a calificado/a / funcionario/a,1
+100000029,Mujer,soltero/a,34,secundaria,119307,empleado/a calificado/a / funcionario/a,1
+100000030,Mujer,soltero/a,63,universidad,175882,empleado/a calificado/a / funcionario/a,0
+100000031,Mujer,,36,secundaria,159646,empleado/a calificado/a / funcionario/a,1
+100000032,Mujer,soltero/a,27,,120131,empleado/a calificado/a / funcionario/a,1
+100000033,Mujer,soltero/a,30,,162745,empleado/a calificado/a / funcionario/a,2
+100000034,Mujer,soltero/a,57,universidad,87605,desempleado/a / no calificado/a,0
+100000035,Hombre,,33,secundaria,155569,,1
+100000036,Mujer,soltero/a,25,,104505,desempleado/a / no calificado/a,0
+100000037,Mujer,soltero/a,31,,143385,empleado/a calificado/a / funcionario/a,2
+100000038,Mujer,soltero/a,37,secundaria,127676,empleado/a calificado/a / funcionario/a,1
+100000039,Mujer,soltero/a,37,secundaria,119276,empleado/a calificado/a / funcionario/a,1
+100000040,Mujer,soltero/a,24,,92542,empleado/a calificado/a / funcionario/a,1
+100000041,Mujer,soltero/a,30,,163329,,1
+100000042,Mujer,,26,secundaria,130921,empleado/a calificado/a / funcionario/a,0
+100000043,Mujer,soltero/a,44,secundaria,133658,desempleado/a / no calificado/a,0
+100000044,Mujer,,24,secundaria,155104,empleado/a calificado/a / funcionario/a,1
+100000045,Hombre,,58,universidad,142335,desempleado/a / no calificado/a,1
+100000046,Hombre,,35,secundaria,138387,,1
+100000047,Mujer,soltero/a,39,secundaria,140182,empleado/a calificado/a / funcionario/a,0
+100000048,Hombre,,23,secundaria,65421,desempleado/a / no calificado/a,0
+100000049,Mujer,soltero/a,39,secundaria,130500,desempleado/a / no calificado/a,0
+100000050,Hombre,,28,secundaria,122831,empleado/a calificado/a / funcionario/a,0
+100000051,Mujer,soltero/a,29,,84531,desempleado/a / no calificado/a,0
+100000052,Mujer,soltero/a,30,,180196,,2
+100000053,Mujer,soltero/a,25,,92058,empleado/a calificado/a / funcionario/a,2
+100000054,Mujer,soltero/a,31,,117158,empleado/a calificado/a / funcionario/a,0
+100000055,Mujer,soltero/a,57,universidad,135830,empleado/a calificado/a / funcionario/a,1
+100000056,Mujer,soltero/a,26,,58258,desempleado/a / no calificado/a,0
+100000057,Mujer,soltero/a,52,secundaria,202575,,2
+100000058,Hombre,,31,secundaria,183657,empleado/a calificado/a / funcionario/a,1
+100000059,Hombre,,23,secundaria,152267,,1
+100000060,Hombre,,23,secundaria,115240,desempleado/a / no calificado/a,0
+100000061,Mujer,,27,secundaria,106955,empleado/a calificado/a / funcionario/a,2
+100000062,Mujer,soltero/a,50,secundaria,123641,empleado/a calificado/a / funcionario/a,1
+100000063,Mujer,soltero/a,61,universidad,166410,,1
+100000064,Mujer,soltero/a,25,,227385,empleado/a calificado/a / funcionario/a,2
+100000065,Hombre,,26,secundaria,118372,empleado/a calificado/a / funcionario/a,1
+100000066,Mujer,soltero/a,48,secundaria,148115,empleado/a calificado/a / funcionario/a,1
+100000067,Hombre,,29,secundaria,111069,empleado/a calificado/a / funcionario/a,0
+100000068,Mujer,,22,secundaria,139780,empleado/a calificado/a / funcionario/a,0
+100000069,Mujer,soltero/a,37,secundaria,106978,empleado/a calificado/a / funcionario/a,2
+100000070,Hombre,,25,secundaria,110019,empleado/a calificado/a / funcionario/a,2
+100000071,Hombre,,30,secundaria,169102,empleado/a calificado/a / funcionario/a,1
+100000072,Mujer,soltero/a,46,secundaria,73703,desempleado/a / no calificado/a,0
+100000073,Mujer,soltero/a,51,secundaria,141858,,2
+100000074,Hombre,,41,universidad,135959,desempleado/a / no calificado/a,0
+100000075,Mujer,soltero/a,40,secundaria,140888,,2
+100000076,Mujer,soltero/a,66,universidad,157299,,2
+100000077,Mujer,soltero/a,34,secundaria,125187,empleado/a calificado/a / funcionario/a,1
+100000078,Mujer,soltero/a,51,secundaria,155486,empleado/a calificado/a / funcionario/a,2
+100000079,Mujer,soltero/a,39,secundaria,151697,desempleado/a / no calificado/a,0
+100000080,Mujer,,22,secundaria,126400,empleado/a calificado/a / funcionario/a,1
+100000081,Hombre,,44,universidad,159246,empleado/a calificado/a / funcionario/a,2
+100000082,Mujer,soltero/a,47,secundaria,136138,empleado/a calificado/a / funcionario/a,1
+100000083,Hombre,,24,secundaria,84792,desempleado/a / no calificado/a,0
+100000084,Hombre,,58,universidad,100210,desempleado/a / no calificado/a,0
+100000085,Mujer,soltero/a,52,secundaria,93706,desempleado/a / no calificado/a,0
+100000086,Hombre,,29,secundaria,133783,,1
+100000087,Hombre,,27,secundaria,110064,empleado/a calificado/a / funcionario/a,2
+100000088,Mujer,soltero/a,47,secundaria,241068,empleado/a calificado/a / funcionario/a,1
+100000089,Mujer,soltero/a,30,,149022,,2
+100000090,Mujer,soltero/a,28,,92973,empleado/a calificado/a / funcionario/a,2
+100000091,Mujer,soltero/a,56,secundaria,110605,empleado/a calificado/a / funcionario/a,1
+100000092,Mujer,soltero/a,54,secundaria,116604,empleado/a calificado/a / funcionario/a,1
+100000093,Hombre,,33,secundaria,71070,desempleado/a / no calificado/a,0
+100000094,Mujer,soltero/a,20,,128678,empleado/a calificado/a / funcionario/a,1
+100000095,Mujer,soltero/a,54,secundaria,165230,empleado/a calificado/a / funcionario/a,2
+100000096,Mujer,soltero/a,58,universidad,268340,empleado/a calificado/a / funcionario/a,1
+100000097,Hombre,,61,universidad,135070,empleado/a calificado/a / funcionario/a,1
+100000098,Mujer,soltero/a,34,secundaria,134794,empleado/a calificado/a / funcionario/a,2
+100000099,Mujer,soltero/a,36,secundaria,120153,empleado/a calificado/a / funcionario/a,1
+100000100,Mujer,soltero/a,36,secundaria,195465,,2
+100000101,Mujer,,41,secundaria,93372,desempleado/a / no calificado/a,0
+100000102,Mujer,soltero/a,24,,110446,empleado/a calificado/a / funcionario/a,0
+100000103,Hombre,,24,secundaria,95186,empleado/a calificado/a / funcionario/a,1
+100000104,Mujer,soltero/a,35,secundaria,115343,empleado/a calificado/a / funcionario/a,1
+100000105,Mujer,,26,secundaria,107276,empleado/a calificado/a / funcionario/a,1
+100000106,Mujer,soltero/a,39,secundaria,244716,,2
+100000107,Mujer,soltero/a,39,secundaria,183108,,2
+100000108,Mujer,soltero/a,32,,152876,empleado/a calificado/a / funcionario/a,2
+100000109,Hombre,,30,secundaria,165147,empleado/a calificado/a / funcionario/a,0
+100000110,Mujer,,35,secundaria,140520,empleado/a calificado/a / funcionario/a,0
+100000111,Mujer,,31,secundaria,124203,empleado/a calificado/a / funcionario/a,1
+100000112,Hombre,,23,secundaria,107205,empleado/a calificado/a / funcionario/a,1
+100000113,Mujer,soltero/a,28,,121432,desempleado/a / no calificado/a,2
+100000114,Hombre,,25,secundaria,162445,empleado/a calificado/a / funcionario/a,0
+100000115,Mujer,,35,secundaria,134112,empleado/a calificado/a / funcionario/a,1
+100000116,Mujer,soltero/a,47,secundaria,131842,empleado/a calificado/a / funcionario/a,1
+100000117,Hombre,,30,secundaria,189896,,0
+100000118,Hombre,,27,secundaria,109099,empleado/a calificado/a / funcionario/a,2
+100000119,Hombre,,23,secundaria,153539,empleado/a calificado/a / funcionario/a,1
+100000120,Mujer,,36,secundaria,180495,,1
+100000121,Hombre,,25,secundaria,104653,empleado/a calificado/a / funcionario/a,2
+100000122,Hombre,,41,universidad,166933,,2
+100000123,Mujer,soltero/a,24,,66118,desempleado/a / no calificado/a,0
+100000124,Mujer,soltero/a,63,universidad,135754,empleado/a calificado/a / funcionario/a,0
+100000125,Hombre,,27,secundaria,116103,empleado/a calificado/a / funcionario/a,2
+100000126,Mujer,soltero/a,30,,104293,empleado/a calificado/a / funcionario/a,1
+100000127,Mujer,,40,secundaria,71702,desempleado/a / no calificado/a,0
+100000128,Mujer,soltero/a,30,,99066,empleado/a calificado/a / funcionario/a,2
+100000129,Mujer,soltero/a,34,secundaria,143979,,2
+100000130,Hombre,,29,secundaria,123818,empleado/a calificado/a / funcionario/a,0
+100000131,Hombre,,24,secundaria,176714,empleado/a calificado/a / funcionario/a,2
+100000132,Mujer,soltero/a,29,,149249,empleado/a calificado/a / funcionario/a,2
+100000133,Mujer,soltero/a,27,,77535,desempleado/a / no calificado/a,0
+100000134,Mujer,soltero/a,47,secundaria,116540,empleado/a calificado/a / funcionario/a,1
+100000135,Hombre,,21,secundaria,194728,empleado/a calificado/a / funcionario/a,0
+100000136,Hombre,,38,secundaria,109311,empleado/a calificado/a / funcionario/a,2
+100000137,Mujer,soltero/a,27,,204723,empleado/a calificado/a / funcionario/a,2
+100000138,Mujer,soltero/a,66,universidad,126003,desempleado/a / no calificado/a,0
+100000139,Mujer,soltero/a,35,secundaria,123109,empleado/a calificado/a / funcionario/a,1
+100000140,Hombre,,44,universidad,108251,desempleado/a / no calificado/a,0
+100000141,Mujer,,27,secundaria,89908,desempleado/a / no calificado/a,0
+100000142,Hombre,,30,secundaria,176057,,1
+100000143,Mujer,soltero/a,27,,144332,,2
+100000144,Mujer,soltero/a,22,,101185,empleado/a calificado/a / funcionario/a,1
+100000145,Hombre,,23,secundaria,107406,empleado/a calificado/a / funcionario/a,2
+100000146,Mujer,soltero/a,30,,140665,empleado/a calificado/a / funcionario/a,1
+100000147,Hombre,,39,universidad,106461,empleado/a calificado/a / funcionario/a,0
+100000148,Hombre,,51,universidad,127825,empleado/a calificado/a / funcionario/a,0
+100000149,Mujer,soltero/a,28,,133898,empleado/a calificado/a / funcionario/a,1
+100000150,Mujer,soltero/a,46,secundaria,152383,empleado/a calificado/a / funcionario/a,2
+100000151,Mujer,soltero/a,42,secundaria,119926,empleado/a calificado/a / funcionario/a,0
+100000152,Mujer,soltero/a,38,secundaria,108784,empleado/a calificado/a / funcionario/a,2
+100000153,Mujer,soltero/a,24,,153286,empleado/a calificado/a / funcionario/a,1
+100000154,Hombre,,29,secundaria,214204,empleado/a calificado/a / funcionario/a,2
+100000155,Mujer,soltero/a,36,secundaria,208101,,2
+100000156,Hombre,,20,secundaria,95355,empleado/a calificado/a / funcionario/a,1
+100000157,Mujer,soltero/a,48,secundaria,124156,empleado/a calificado/a / funcionario/a,1
+100000158,Mujer,,45,universidad,72215,desempleado/a / no calificado/a,0
+100000159,Mujer,soltero/a,38,secundaria,146529,empleado/a calificado/a / funcionario/a,2
+100000160,Mujer,soltero/a,34,secundaria,75343,desempleado/a / no calificado/a,0
+100000161,Mujer,soltero/a,36,secundaria,129789,empleado/a calificado/a / funcionario/a,1
+100000162,Hombre,,30,secundaria,101153,empleado/a calificado/a / funcionario/a,1
+100000163,Mujer,soltero/a,36,secundaria,127833,empleado/a calificado/a / funcionario/a,2
+100000164,Mujer,soltero/a,70,universidad,224998,,2
+100000165,Mujer,soltero/a,36,secundaria,124445,empleado/a calificado/a / funcionario/a,2
+100000166,Mujer,soltero/a,32,,141116,empleado/a calificado/a / funcionario/a,1
+100000167,Hombre,,33,secundaria,104276,empleado/a calificado/a / funcionario/a,2
+100000168,Hombre,,20,secundaria,147687,empleado/a calificado/a / funcionario/a,2
+100000169,Hombre,,25,secundaria,125168,empleado/a calificado/a / funcionario/a,1
+100000170,Mujer,,31,secundaria,115369,empleado/a calificado/a / funcionario/a,2
+100000171,Mujer,soltero/a,33,secundaria,95445,empleado/a calificado/a / funcionario/a,0
+100000172,Hombre,,26,secundaria,95159,empleado/a calificado/a / funcionario/a,1
+100000173,Hombre,,34,secundaria,153031,,2
+100000174,Mujer,soltero/a,33,secundaria,108899,empleado/a calificado/a / funcionario/a,0
+100000175,Mujer,soltero/a,26,,113515,empleado/a calificado/a / funcionario/a,1
+100000176,Hombre,,53,universidad,211229,,0
+100000177,Mujer,,42,universidad,121307,empleado/a calificado/a / funcionario/a,0
+100000178,Mujer,soltero/a,52,secundaria,131727,empleado/a calificado/a / funcionario/a,2
+100000179,Mujer,soltero/a,31,,133574,,1
+100000180,Mujer,soltero/a,65,universidad,117334,empleado/a calificado/a / funcionario/a,0
+100000181,Mujer,,28,secundaria,177291,empleado/a calificado/a / funcionario/a,2
+100000182,Mujer,,30,secundaria,168763,,1
+100000183,Mujer,soltero/a,40,secundaria,77720,desempleado/a / no calificado/a,0
+100000184,Mujer,soltero/a,50,secundaria,176645,empleado/a calificado/a / funcionario/a,2
+100000185,Mujer,soltero/a,36,secundaria,106205,empleado/a calificado/a / funcionario/a,1
+100000186,Mujer,soltero/a,31,,97785,empleado/a calificado/a / funcionario/a,1
+100000187,Hombre,,74,,214364,,1
+100000188,Mujer,soltero/a,68,universidad,74525,desempleado/a / no calificado/a,0
+100000189,Mujer,,20,secundaria,98988,empleado/a calificado/a / funcionario/a,0
+100000190,Hombre,,33,secundaria,133561,empleado/a calificado/a / funcionario/a,1
+100000191,Mujer,soltero/a,54,secundaria,217651,,2
+100000192,Mujer,soltero/a,34,secundaria,116525,desempleado/a / no calificado/a,0
+100000193,Mujer,soltero/a,36,secundaria,135302,empleado/a calificado/a / funcionario/a,2
+100000194,Mujer,,29,secundaria,106434,empleado/a calificado/a / funcionario/a,1
+100000195,Mujer,soltero/a,21,,128350,empleado/a calificado/a / funcionario/a,2
+100000196,Hombre,,34,secundaria,147626,,2
+100000197,Hombre,,28,secundaria,102697,empleado/a calificado/a / funcionario/a,0
+100000198,Hombre,,27,secundaria,120262,empleado/a calificado/a / funcionario/a,0
+100000199,Mujer,soltero/a,36,secundaria,124214,empleado/a calificado/a / funcionario/a,2
+100000200,Mujer,,40,secundaria,175223,,1
+100000201,Mujer,soltero/a,52,secundaria,137467,empleado/a calificado/a / funcionario/a,0
+100000202,Mujer,,27,secundaria,65815,desempleado/a / no calificado/a,0
+100000203,Mujer,soltero/a,26,,129864,empleado/a calificado/a / funcionario/a,1
+100000204,Mujer,,21,secundaria,88475,empleado/a calificado/a / funcionario/a,1
+100000205,Mujer,soltero/a,38,secundaria,74666,desempleado/a / no calificado/a,0
+100000206,Mujer,soltero/a,38,secundaria,222294,,2
+100000207,Mujer,soltero/a,43,secundaria,112878,empleado/a calificado/a / funcionario/a,0
+100000208,Mujer,soltero/a,26,,103411,empleado/a calificado/a / funcionario/a,2
+100000209,Mujer,,21,secundaria,112868,desempleado/a / no calificado/a,0
+100000210,Mujer,soltero/a,55,secundaria,157940,empleado/a calificado/a / funcionario/a,2
+100000211,Mujer,soltero/a,33,secundaria,115835,empleado/a calificado/a / funcionario/a,2
+100000212,Hombre,,45,universidad,109807,desempleado/a / no calificado/a,0
+100000213,Mujer,soltero/a,50,secundaria,150699,empleado/a calificado/a / funcionario/a,1
+100000214,Mujer,soltero/a,66,universidad,178967,,0
+100000215,Mujer,soltero/a,51,secundaria,132767,empleado/a calificado/a / funcionario/a,0
+100000216,Hombre,,39,universidad,86152,desempleado/a / no calificado/a,0
+100000217,Mujer,soltero/a,31,,114528,empleado/a calificado/a / funcionario/a,2
+100000218,Mujer,soltero/a,23,,133912,empleado/a calificado/a / funcionario/a,1
+100000219,Mujer,,24,secundaria,81210,desempleado/a / no calificado/a,0
+100000220,Hombre,,64,,131242,empleado/a calificado/a / funcionario/a,0
+100000221,Mujer,,26,secundaria,68804,desempleado/a / no calificado/a,0
+100000222,Hombre,,23,secundaria,96961,empleado/a calificado/a / funcionario/a,1
+100000223,Mujer,soltero/a,30,,90719,empleado/a calificado/a / funcionario/a,2
+100000224,Mujer,soltero/a,32,,114116,empleado/a calificado/a / funcionario/a,1
+100000225,Mujer,soltero/a,30,,128639,empleado/a calificado/a / funcionario/a,1
+100000226,Mujer,soltero/a,27,,106623,empleado/a calificado/a / funcionario/a,1
+100000227,Mujer,soltero/a,27,,236264,empleado/a calificado/a / funcionario/a,1
+100000228,Mujer,soltero/a,53,secundaria,207783,,1
+100000229,Mujer,soltero/a,22,,91739,empleado/a calificado/a / funcionario/a,1
+100000230,Mujer,soltero/a,22,,107780,empleado/a calificado/a / funcionario/a,2
+100000231,Mujer,soltero/a,26,,139157,empleado/a calificado/a / funcionario/a,2
+100000232,Mujer,soltero/a,51,secundaria,121751,desempleado/a / no calificado/a,0
+100000233,Mujer,soltero/a,35,secundaria,121974,empleado/a calificado/a / funcionario/a,0
+100000234,Mujer,,25,secundaria,70320,desempleado/a / no calificado/a,0
+100000235,Mujer,soltero/a,42,secundaria,78327,desempleado/a / no calificado/a,0
+100000236,Mujer,soltero/a,30,,131433,,0
+100000237,Mujer,soltero/a,23,,167076,desempleado/a / no calificado/a,2
+100000238,Mujer,,61,universidad,130788,desempleado/a / no calificado/a,0
+100000239,Hombre,,35,secundaria,107408,empleado/a calificado/a / funcionario/a,1
+100000240,Mujer,soltero/a,39,secundaria,115323,empleado/a calificado/a / funcionario/a,1
+100000241,Hombre,,29,secundaria,99012,empleado/a calificado/a / funcionario/a,0
+100000242,Mujer,soltero/a,51,secundaria,115996,empleado/a calificado/a / funcionario/a,1
+100000243,Mujer,soltero/a,24,,123353,empleado/a calificado/a / funcionario/a,1
+100000244,Hombre,,27,secundaria,100008,empleado/a calificado/a / funcionario/a,0
+100000245,Hombre,,35,secundaria,125105,desempleado/a / no calificado/a,0
+100000246,Mujer,soltero/a,25,,92020,empleado/a calificado/a / funcionario/a,2
+100000247,Mujer,soltero/a,52,secundaria,108365,empleado/a calificado/a / funcionario/a,2
+100000248,Mujer,soltero/a,35,secundaria,112979,empleado/a calificado/a / funcionario/a,0
+100000249,Mujer,soltero/a,26,,117221,empleado/a calificado/a / funcionario/a,1
+100000250,Hombre,,22,secundaria,88800,empleado/a calificado/a / funcionario/a,2
+100000251,Hombre,,39,universidad,115099,desempleado/a / no calificado/a,0
+100000252,Hombre,,46,universidad,113399,desempleado/a / no calificado/a,0
+100000253,Hombre,,24,secundaria,115879,empleado/a calificado/a / funcionario/a,1
+100000254,Mujer,soltero/a,35,secundaria,141270,empleado/a calificado/a / funcionario/a,2
+100000255,Mujer,soltero/a,24,,107633,empleado/a calificado/a / funcionario/a,1
+100000256,Mujer,soltero/a,27,,131751,desempleado/a / no calificado/a,0
+100000257,Mujer,soltero/a,35,secundaria,83687,desempleado/a / no calificado/a,0
+100000258,Mujer,,29,secundaria,106828,empleado/a calificado/a / funcionario/a,2
+100000259,Hombre,,23,secundaria,135537,empleado/a calificado/a / funcionario/a,1
+100000260,Hombre,,57,universidad,107142,desempleado/a / no calificado/a,0
+100000261,Mujer,soltero/a,27,,97446,empleado/a calificado/a / funcionario/a,1
+100000262,Hombre,,55,universidad,126357,empleado/a calificado/a / funcionario/a,2
+100000263,Mujer,soltero/a,36,secundaria,169617,,1
+100000264,Hombre,,57,universidad,108945,desempleado/a / no calificado/a,0
+100000265,Mujer,soltero/a,32,,67345,desempleado/a / no calificado/a,0
+100000266,Mujer,soltero/a,37,secundaria,106215,empleado/a calificado/a / funcionario/a,0
+100000267,Mujer,soltero/a,36,secundaria,149237,empleado/a calificado/a / funcionario/a,0
+100000268,Hombre,,38,secundaria,112124,empleado/a calificado/a / funcionario/a,0
+100000269,Mujer,,45,universidad,215150,,2
+100000270,Mujer,soltero/a,25,,89534,empleado/a calificado/a / funcionario/a,1
+100000271,Mujer,soltero/a,32,,111082,empleado/a calificado/a / funcionario/a,2
+100000272,Hombre,,37,secundaria,137069,empleado/a calificado/a / funcionario/a,1
+100000273,Mujer,soltero/a,36,secundaria,244541,,2
+100000274,Mujer,soltero/a,28,,120712,empleado/a calificado/a / funcionario/a,1
+100000275,Mujer,,34,secundaria,175367,desempleado/a / no calificado/a,0
+100000276,Mujer,soltero/a,32,,111418,empleado/a calificado/a / funcionario/a,1
+100000277,Hombre,,26,secundaria,110913,empleado/a calificado/a / funcionario/a,0
+100000278,Mujer,,49,universidad,84267,desempleado/a / no calificado/a,0
+100000279,Hombre,,32,secundaria,136886,empleado/a calificado/a / funcionario/a,2
+100000280,Mujer,soltero/a,29,,144884,,2
+100000281,Mujer,soltero/a,23,,151180,empleado/a calificado/a / funcionario/a,1
+100000282,Mujer,soltero/a,50,secundaria,114997,empleado/a calificado/a / funcionario/a,1
+100000283,Mujer,soltero/a,49,secundaria,100961,desempleado/a / no calificado/a,0
+100000284,Mujer,soltero/a,63,universidad,124849,empleado/a calificado/a / funcionario/a,2
+100000285,Mujer,,37,secundaria,152308,empleado/a calificado/a / funcionario/a,2
+100000286,Hombre,,35,secundaria,167945,desempleado/a / no calificado/a,1
+100000287,Mujer,soltero/a,26,,126706,empleado/a calificado/a / funcionario/a,2
+100000288,Mujer,soltero/a,31,,210017,,2
+100000289,Hombre,,49,universidad,125665,empleado/a calificado/a / funcionario/a,1
+100000290,Mujer,,48,universidad,111184,empleado/a calificado/a / funcionario/a,1
+100000291,Mujer,,26,secundaria,94134,empleado/a calificado/a / funcionario/a,0
+100000292,Mujer,,28,secundaria,214620,,1
+100000293,Hombre,,44,universidad,193816,,1
+100000294,Mujer,soltero/a,56,secundaria,168714,empleado/a calificado/a / funcionario/a,1
+100000295,Mujer,,46,universidad,202997,,1
+100000296,Hombre,,26,secundaria,192451,empleado/a calificado/a / funcionario/a,2
+100000297,Hombre,,20,secundaria,127928,empleado/a calificado/a / funcionario/a,2
+100000298,Mujer,soltero/a,45,secundaria,78253,desempleado/a / no calificado/a,0
+100000299,Mujer,soltero/a,43,secundaria,118446,empleado/a calificado/a / funcionario/a,1
+100000300,Mujer,soltero/a,32,,161379,empleado/a calificado/a / funcionario/a,2
+100000301,Hombre,,54,universidad,56622,desempleado/a / no calificado/a,0
+100000302,Hombre,,42,universidad,146117,empleado/a calificado/a / funcionario/a,1
+100000303,Mujer,soltero/a,37,secundaria,90418,desempleado/a / no calificado/a,0
+100000304,Mujer,soltero/a,49,secundaria,109053,empleado/a calificado/a / funcionario/a,0
+100000305,Mujer,soltero/a,44,secundaria,219319,empleado/a calificado/a / funcionario/a,0
+100000306,Mujer,,33,secundaria,144701,empleado/a calificado/a / funcionario/a,1
+100000307,Hombre,,24,secundaria,102425,desempleado/a / no calificado/a,0
+100000308,Mujer,,33,secundaria,79867,desempleado/a / no calificado/a,0
+100000309,Hombre,,24,secundaria,107114,empleado/a calificado/a / funcionario/a,2
+100000310,Mujer,,22,secundaria,62263,desempleado/a / no calificado/a,0
+100000311,Mujer,soltero/a,40,secundaria,92567,desempleado/a / no calificado/a,0
+100000312,Mujer,soltero/a,25,,146349,empleado/a calificado/a / funcionario/a,0
+100000313,Hombre,,26,secundaria,141825,empleado/a calificado/a / funcionario/a,1
+100000314,Mujer,,25,secundaria,68582,desempleado/a / no calificado/a,0
+100000315,Mujer,soltero/a,29,,85476,desempleado/a / no calificado/a,0
+100000316,Mujer,soltero/a,31,,111091,empleado/a calificado/a / funcionario/a,2
+100000317,Mujer,soltero/a,38,secundaria,67110,desempleado/a / no calificado/a,0
+100000318,Hombre,,48,universidad,126154,desempleado/a / no calificado/a,0
+100000319,Mujer,soltero/a,32,,92257,empleado/a calificado/a / funcionario/a,2
+100000320,Hombre,,27,secundaria,93605,desempleado/a / no calificado/a,0
+100000321,Mujer,,28,secundaria,165190,,0
+100000322,Mujer,,32,secundaria,107195,empleado/a calificado/a / funcionario/a,0
+100000323,Mujer,soltero/a,34,secundaria,145059,,0
+100000324,Mujer,soltero/a,28,,148363,empleado/a calificado/a / funcionario/a,0
+100000325,Hombre,,36,secundaria,105681,empleado/a calificado/a / funcionario/a,2
+100000326,Mujer,soltero/a,39,secundaria,93732,desempleado/a / no calificado/a,0
+100000327,Mujer,soltero/a,49,secundaria,154778,empleado/a calificado/a / funcionario/a,2
+100000328,Hombre,,34,secundaria,149356,empleado/a calificado/a / funcionario/a,2
+100000329,Mujer,soltero/a,31,,145670,empleado/a calificado/a / funcionario/a,1
+100000330,Mujer,soltero/a,28,,101589,empleado/a calificado/a / funcionario/a,2
+100000331,Mujer,soltero/a,75,universidad,213333,,1
+100000332,Hombre,,30,secundaria,122420,empleado/a calificado/a / funcionario/a,0
+100000333,Hombre,,24,secundaria,209856,,1
+100000334,Hombre,,24,secundaria,181003,desempleado/a / no calificado/a,0
+100000335,Mujer,soltero/a,23,,117804,empleado/a calificado/a / funcionario/a,1
+100000336,Mujer,,44,universidad,160650,,1
+100000337,Hombre,,23,secundaria,84611,desempleado/a / no calificado/a,0
+100000338,Hombre,,24,secundaria,98479,empleado/a calificado/a / funcionario/a,2
+100000339,Mujer,soltero/a,28,,122359,empleado/a calificado/a / funcionario/a,2
+100000340,Mujer,,31,secundaria,81394,desempleado/a / no calificado/a,0
+100000341,Hombre,,24,secundaria,150372,empleado/a calificado/a / funcionario/a,1
+100000342,Hombre,,26,secundaria,92385,desempleado/a / no calificado/a,0
+100000343,Mujer,,25,secundaria,149851,empleado/a calificado/a / funcionario/a,2
+100000344,Mujer,soltero/a,33,secundaria,167939,,1
+100000345,Mujer,soltero/a,37,secundaria,115426,desempleado/a / no calificado/a,0
+100000346,Hombre,,43,universidad,85402,desempleado/a / no calificado/a,0
+100000347,Mujer,soltero/a,23,,95815,empleado/a calificado/a / funcionario/a,2
+100000348,Hombre,,23,secundaria,97518,desempleado/a / no calificado/a,0
+100000349,Mujer,soltero/a,34,secundaria,87355,desempleado/a / no calificado/a,0
+100000350,Mujer,soltero/a,32,,145933,empleado/a calificado/a / funcionario/a,1
+100000351,Hombre,,23,secundaria,97307,empleado/a calificado/a / funcionario/a,0
+100000352,Hombre,,29,secundaria,108434,empleado/a calificado/a / funcionario/a,2
+100000353,Mujer,soltero/a,38,secundaria,151312,,1
+100000354,Mujer,soltero/a,28,,141847,empleado/a calificado/a / funcionario/a,1
+100000355,Mujer,soltero/a,46,secundaria,130675,empleado/a calificado/a / funcionario/a,2
+100000356,Mujer,soltero/a,23,,69309,desempleado/a / no calificado/a,0
+100000357,Mujer,soltero/a,49,secundaria,121466,empleado/a calificado/a / funcionario/a,2
+100000358,Mujer,soltero/a,26,,153586,,2
+100000359,Mujer,,28,secundaria,92849,empleado/a calificado/a / funcionario/a,0
+100000360,Hombre,,23,secundaria,108539,empleado/a calificado/a / funcionario/a,2
+100000361,Mujer,soltero/a,61,universidad,129556,empleado/a calificado/a / funcionario/a,2
+100000362,Mujer,soltero/a,37,secundaria,170146,,0
+100000363,Hombre,,36,secundaria,135383,empleado/a calificado/a / funcionario/a,1
+100000364,Mujer,,21,secundaria,96769,empleado/a calificado/a / funcionario/a,2
+100000365,Mujer,soltero/a,25,,43684,desempleado/a / no calificado/a,0
+100000366,Mujer,soltero/a,36,secundaria,103521,empleado/a calificado/a / funcionario/a,0
+100000367,Mujer,soltero/a,27,,118499,empleado/a calificado/a / funcionario/a,1
+100000368,Hombre,,22,secundaria,119684,empleado/a calificado/a / funcionario/a,2
+100000369,Mujer,soltero/a,42,secundaria,126586,empleado/a calificado/a / funcionario/a,1
+100000370,Hombre,,40,universidad,136812,empleado/a calificado/a / funcionario/a,2
+100000371,Mujer,soltero/a,36,secundaria,118277,empleado/a calificado/a / funcionario/a,1
+100000372,Mujer,soltero/a,33,secundaria,144597,empleado/a calificado/a / funcionario/a,1
+100000373,Hombre,,23,secundaria,106043,empleado/a calificado/a / funcionario/a,0
+100000374,Mujer,soltero/a,63,universidad,272314,,2
+100000375,Hombre,,60,universidad,309364,,2
+100000376,Hombre,,37,secundaria,170386,empleado/a calificado/a / funcionario/a,1
+100000377,Mujer,,34,secundaria,112458,empleado/a calificado/a / funcionario/a,0
+100000378,Mujer,soltero/a,36,secundaria,96840,empleado/a calificado/a / funcionario/a,1
+100000379,Mujer,soltero/a,57,universidad,281923,,1
+100000380,Hombre,,52,universidad,95551,desempleado/a / no calificado/a,0
+100000381,Mujer,soltero/a,39,secundaria,112347,empleado/a calificado/a / funcionario/a,2
+100000382,Hombre,,38,secundaria,260977,,2
+100000383,Hombre,,25,secundaria,99354,empleado/a calificado/a / funcionario/a,0
+100000384,Mujer,soltero/a,26,,111509,empleado/a calificado/a / funcionario/a,2
+100000385,Mujer,soltero/a,26,,105252,desempleado/a / no calificado/a,0
+100000386,Hombre,,25,secundaria,108522,empleado/a calificado/a / funcionario/a,0
+100000387,Hombre,,21,secundaria,94655,empleado/a calificado/a / funcionario/a,1
+100000388,Mujer,soltero/a,40,secundaria,201699,,1
+100000389,Mujer,soltero/a,27,,139868,empleado/a calificado/a / funcionario/a,2
+100000390,Hombre,,27,secundaria,102543,empleado/a calificado/a / funcionario/a,1
+100000391,Mujer,,30,secundaria,134467,,2
+100000392,Hombre,,19,secundaria,111187,desempleado/a / no calificado/a,0
+100000393,Mujer,soltero/a,39,secundaria,152302,,1
+100000394,Hombre,,31,secundaria,110610,empleado/a calificado/a / funcionario/a,2
+100000395,Mujer,soltero/a,31,,137827,,2
+100000396,Mujer,soltero/a,32,,220923,empleado/a calificado/a / funcionario/a,2
+100000397,Hombre,,55,universidad,165717,,2
+100000398,Mujer,,46,universidad,122299,empleado/a calificado/a / funcionario/a,0
+100000399,Mujer,,46,universidad,120499,empleado/a calificado/a / funcionario/a,0
+100000400,Hombre,,43,universidad,126449,desempleado/a / no calificado/a,0
+100000401,Mujer,,39,secundaria,108315,empleado/a calificado/a / funcionario/a,2
+100000402,Mujer,,28,secundaria,112515,empleado/a calificado/a / funcionario/a,1
+100000403,Mujer,soltero/a,27,,164559,empleado/a calificado/a / funcionario/a,1
+100000404,Mujer,soltero/a,27,,59238,desempleado/a / no calificado/a,0
+100000405,Mujer,soltero/a,43,secundaria,131133,empleado/a calificado/a / funcionario/a,0
+100000406,Mujer,,22,secundaria,109188,empleado/a calificado/a / funcionario/a,0
+100000407,Mujer,soltero/a,43,secundaria,115393,empleado/a calificado/a / funcionario/a,1
+100000408,Mujer,,27,secundaria,94711,empleado/a calificado/a / funcionario/a,2
+100000409,Mujer,,26,secundaria,171860,,0
+100000410,Mujer,,28,secundaria,139414,empleado/a calificado/a / funcionario/a,2
+100000411,Hombre,,20,secundaria,110931,empleado/a calificado/a / funcionario/a,1
+100000412,Mujer,soltero/a,35,secundaria,187549,,2
+100000413,Mujer,soltero/a,42,secundaria,145508,,0
+100000414,Mujer,soltero/a,40,secundaria,104240,desempleado/a / no calificado/a,0
+100000415,Hombre,,35,secundaria,108272,empleado/a calificado/a / funcionario/a,1
+100000416,Mujer,soltero/a,35,secundaria,144004,empleado/a calificado/a / funcionario/a,2
+100000417,Mujer,soltero/a,33,secundaria,81083,desempleado/a / no calificado/a,0
+100000418,Hombre,,23,secundaria,166763,empleado/a calificado/a / funcionario/a,1
+100000419,Hombre,,31,secundaria,175530,,1
+100000420,Hombre,,33,secundaria,112422,empleado/a calificado/a / funcionario/a,1
+100000421,Hombre,,20,secundaria,154134,empleado/a calificado/a / funcionario/a,2
+100000422,Mujer,soltero/a,30,,112401,empleado/a calificado/a / funcionario/a,1
+100000423,Mujer,soltero/a,47,secundaria,85690,desempleado/a / no calificado/a,0
+100000424,Mujer,soltero/a,34,secundaria,145896,,2
+100000425,Hombre,,25,secundaria,122552,empleado/a calificado/a / funcionario/a,2
+100000426,Mujer,,21,secundaria,115494,empleado/a calificado/a / funcionario/a,2
+100000427,Mujer,soltero/a,29,,109467,empleado/a calificado/a / funcionario/a,0
+100000428,Mujer,soltero/a,46,secundaria,148226,empleado/a calificado/a / funcionario/a,2
+100000429,Mujer,soltero/a,20,,88559,empleado/a calificado/a / funcionario/a,1
+100000430,Hombre,,55,universidad,62393,desempleado/a / no calificado/a,0
+100000431,Mujer,soltero/a,74,universidad,122133,desempleado/a / no calificado/a,0
+100000432,Mujer,soltero/a,29,,230883,,2
+100000433,Mujer,soltero/a,36,secundaria,136689,,2
+100000434,Mujer,,33,secundaria,109145,empleado/a calificado/a / funcionario/a,0
+100000435,Mujer,soltero/a,25,,100449,empleado/a calificado/a / funcionario/a,2
+100000436,Mujer,,25,secundaria,106253,empleado/a calificado/a / funcionario/a,0
+100000437,Mujer,,23,secundaria,84747,desempleado/a / no calificado/a,0
+100000438,Hombre,,37,secundaria,149465,empleado/a calificado/a / funcionario/a,1
+100000439,Mujer,soltero/a,65,universidad,84435,desempleado/a / no calificado/a,0
+100000440,Hombre,,26,secundaria,51681,desempleado/a / no calificado/a,0
+100000441,Mujer,soltero/a,39,secundaria,139198,,1
+100000442,Hombre,,30,secundaria,106577,empleado/a calificado/a / funcionario/a,1
+100000443,Mujer,soltero/a,29,,117372,empleado/a calificado/a / funcionario/a,2
+100000444,Mujer,soltero/a,41,secundaria,69609,desempleado/a / no calificado/a,0
+100000445,Hombre,,30,secundaria,178947,,2
+100000446,Hombre,,41,universidad,81743,desempleado/a / no calificado/a,0
+100000447,Hombre,,34,secundaria,111900,empleado/a calificado/a / funcionario/a,1
+100000448,Mujer,soltero/a,35,secundaria,121650,empleado/a calificado/a / funcionario/a,0
+100000449,Hombre,,55,universidad,172639,,2
+100000450,Mujer,,61,universidad,175740,empleado/a calificado/a / funcionario/a,1
+100000451,Mujer,soltero/a,30,,220050,,2
+100000452,Hombre,,29,secundaria,95200,empleado/a calificado/a / funcionario/a,1
+100000453,Mujer,soltero/a,34,secundaria,113609,empleado/a calificado/a / funcionario/a,1
+100000454,Mujer,soltero/a,35,secundaria,143552,,2
+100000455,Mujer,soltero/a,31,,130973,empleado/a calificado/a / funcionario/a,2
+100000456,Hombre,,29,secundaria,145946,,2
+100000457,Mujer,soltero/a,36,secundaria,126206,empleado/a calificado/a / funcionario/a,1
+100000458,Mujer,soltero/a,35,secundaria,120426,empleado/a calificado/a / funcionario/a,0
+100000459,Hombre,,27,secundaria,91925,empleado/a calificado/a / funcionario/a,2
+100000460,Mujer,soltero/a,32,,129630,empleado/a calificado/a / funcionario/a,2
+100000461,Mujer,soltero/a,37,secundaria,124268,empleado/a calificado/a / funcionario/a,2
+100000462,Mujer,soltero/a,36,secundaria,105240,empleado/a calificado/a / funcionario/a,1
+100000463,Hombre,,34,secundaria,162180,,0
+100000464,Mujer,soltero/a,38,secundaria,106552,empleado/a calificado/a / funcionario/a,2
+100000465,Mujer,soltero/a,34,secundaria,105843,empleado/a calificado/a / funcionario/a,2
+100000466,Mujer,soltero/a,63,universidad,138327,empleado/a calificado/a / funcionario/a,1
+100000467,Hombre,,29,secundaria,76154,desempleado/a / no calificado/a,0
+100000468,Mujer,soltero/a,32,,155012,empleado/a calificado/a / funcionario/a,1
+100000469,Hombre,,26,secundaria,114369,empleado/a calificado/a / funcionario/a,1
+100000470,Mujer,soltero/a,35,secundaria,102839,desempleado/a / no calificado/a,0
+100000471,Mujer,,22,secundaria,132796,empleado/a calificado/a / funcionario/a,0
+100000472,Hombre,,23,secundaria,89742,empleado/a calificado/a / funcionario/a,2
+100000473,Mujer,soltero/a,28,,58615,desempleado/a / no calificado/a,0
+100000474,Mujer,soltero/a,36,secundaria,130603,,2
+100000475,Mujer,,33,secundaria,110340,empleado/a calificado/a / funcionario/a,0
+100000476,Hombre,,26,secundaria,117729,empleado/a calificado/a / funcionario/a,2
+100000477,Mujer,soltero/a,24,,130808,empleado/a calificado/a / funcionario/a,0
+100000478,Mujer,soltero/a,25,,147402,empleado/a calificado/a / funcionario/a,2
+100000479,Mujer,soltero/a,39,secundaria,93567,desempleado/a / no calificado/a,0
+100000480,Mujer,soltero/a,44,secundaria,109289,empleado/a calificado/a / funcionario/a,1
+100000481,Hombre,,23,secundaria,98742,desempleado/a / no calificado/a,0
+100000482,Mujer,soltero/a,26,,101270,empleado/a calificado/a / funcionario/a,0
+100000483,Hombre,,57,universidad,187835,empleado/a calificado/a / funcionario/a,1
+100000484,Hombre,,30,secundaria,140741,empleado/a calificado/a / funcionario/a,0
+100000485,Mujer,soltero/a,44,secundaria,133265,empleado/a calificado/a / funcionario/a,2
+100000486,Mujer,soltero/a,47,secundaria,148100,,2
+100000487,Mujer,soltero/a,52,secundaria,131021,empleado/a calificado/a / funcionario/a,2
+100000488,Hombre,,62,universidad,152620,empleado/a calificado/a / funcionario/a,2
+100000489,Mujer,soltero/a,35,secundaria,85033,desempleado/a / no calificado/a,0
+100000490,Mujer,soltero/a,26,,114514,empleado/a calificado/a / funcionario/a,1
+100000491,Mujer,soltero/a,26,,99307,empleado/a calificado/a / funcionario/a,1
+100000492,Hombre,,42,universidad,219451,,2
+100000493,Hombre,,27,secundaria,114007,empleado/a calificado/a / funcionario/a,0
+100000494,Mujer,soltero/a,38,secundaria,102846,empleado/a calificado/a / funcionario/a,0
+100000495,Mujer,soltero/a,39,secundaria,81483,desempleado/a / no calificado/a,0
+100000496,Mujer,,20,secundaria,107779,empleado/a calificado/a / funcionario/a,2
+100000497,Mujer,soltero/a,29,,222360,,2
+100000498,Mujer,soltero/a,40,secundaria,107125,empleado/a calificado/a / funcionario/a,0
+100000499,Mujer,,32,secundaria,80080,desempleado/a / no calificado/a,0
+100000500,Mujer,,28,secundaria,129600,empleado/a calificado/a / funcionario/a,0
+100000501,Hombre,,27,secundaria,118613,empleado/a calificado/a / funcionario/a,1
+100000502,Mujer,soltero/a,42,secundaria,146237,empleado/a calificado/a / funcionario/a,1
+100000503,Mujer,,49,universidad,144461,empleado/a calificado/a / funcionario/a,2
+100000504,Mujer,soltero/a,38,secundaria,124487,empleado/a calificado/a / funcionario/a,0
+100000505,Hombre,,24,secundaria,97826,empleado/a calificado/a / funcionario/a,0
+100000506,Mujer,soltero/a,27,,64105,desempleado/a / no calificado/a,0
+100000507,Mujer,soltero/a,36,secundaria,156374,empleado/a calificado/a / funcionario/a,2
+100000508,Mujer,soltero/a,34,secundaria,205383,,2
+100000509,Mujer,,28,secundaria,98964,empleado/a calificado/a / funcionario/a,2
+100000510,Mujer,soltero/a,45,secundaria,221842,,2
+100000511,Mujer,soltero/a,26,,88027,empleado/a calificado/a / funcionario/a,2
+100000512,Mujer,soltero/a,32,,160513,,2
+100000513,Mujer,soltero/a,26,,124536,empleado/a calificado/a / funcionario/a,2
+100000514,Mujer,,20,secundaria,93634,empleado/a calificado/a / funcionario/a,0
+100000515,Mujer,soltero/a,54,secundaria,124725,empleado/a calificado/a / funcionario/a,0
+100000516,Hombre,,37,secundaria,102456,empleado/a calificado/a / funcionario/a,0
+100000517,Mujer,soltero/a,40,secundaria,74975,desempleado/a / no calificado/a,0
+100000518,Hombre,,23,secundaria,153861,empleado/a calificado/a / funcionario/a,1
+100000519,Mujer,soltero/a,43,secundaria,119351,empleado/a calificado/a / funcionario/a,2
+100000520,Mujer,soltero/a,36,secundaria,95438,empleado/a calificado/a / funcionario/a,2
+100000521,Mujer,soltero/a,44,secundaria,147967,empleado/a calificado/a / funcionario/a,2
+100000522,Hombre,,24,secundaria,116863,empleado/a calificado/a / funcionario/a,1
+100000523,Mujer,soltero/a,53,secundaria,170622,empleado/a calificado/a / funcionario/a,1
+100000524,Hombre,,23,secundaria,132426,empleado/a calificado/a / funcionario/a,1
+100000525,Hombre,,26,secundaria,77519,desempleado/a / no calificado/a,0
+100000526,Mujer,soltero/a,30,,169405,empleado/a calificado/a / funcionario/a,2
+100000527,Hombre,,31,secundaria,120030,empleado/a calificado/a / funcionario/a,0
+100000528,Mujer,soltero/a,42,secundaria,77933,desempleado/a / no calificado/a,0
+100000529,Mujer,,31,secundaria,109892,empleado/a calificado/a / funcionario/a,1
+100000530,Mujer,soltero/a,41,secundaria,69062,desempleado/a / no calificado/a,0
+100000531,Mujer,soltero/a,32,,116348,empleado/a calificado/a / funcionario/a,0
+100000532,Hombre,,28,secundaria,137188,empleado/a calificado/a / funcionario/a,1
+100000533,Mujer,,41,secundaria,110199,empleado/a calificado/a / funcionario/a,0
+100000534,Mujer,,26,secundaria,109890,empleado/a calificado/a / funcionario/a,1
+100000535,Mujer,soltero/a,25,,109751,empleado/a calificado/a / funcionario/a,2
+100000536,Mujer,,33,secundaria,129651,empleado/a calificado/a / funcionario/a,1
+100000537,Hombre,,75,,170113,,1
+100000538,Hombre,,37,secundaria,140285,empleado/a calificado/a / funcionario/a,1
+100000539,Mujer,soltero/a,42,secundaria,198029,,2
+100000540,Hombre,,45,universidad,120262,desempleado/a / no calificado/a,0
+100000541,Mujer,,23,secundaria,105137,empleado/a calificado/a / funcionario/a,1
+100000542,Mujer,soltero/a,60,universidad,127371,empleado/a calificado/a / funcionario/a,0
+100000543,Mujer,soltero/a,31,,145689,empleado/a calificado/a / funcionario/a,0
+100000544,Mujer,soltero/a,34,secundaria,102617,desempleado/a / no calificado/a,1
+100000545,Mujer,soltero/a,61,universidad,90709,desempleado/a / no calificado/a,0
+100000546,Mujer,soltero/a,43,secundaria,107099,empleado/a calificado/a / funcionario/a,1
+100000547,Hombre,,37,secundaria,116021,empleado/a calificado/a / funcionario/a,2
+100000548,Mujer,soltero/a,32,,100426,empleado/a calificado/a / funcionario/a,2
+100000549,Hombre,,24,secundaria,62249,desempleado/a / no calificado/a,0
+100000550,Mujer,soltero/a,35,secundaria,172957,empleado/a calificado/a / funcionario/a,1
+100000551,Hombre,,23,secundaria,95003,empleado/a calificado/a / funcionario/a,1
+100000552,Mujer,soltero/a,45,secundaria,109698,desempleado/a / no calificado/a,0
+100000553,Mujer,,34,secundaria,157376,empleado/a calificado/a / funcionario/a,0
+100000554,Mujer,soltero/a,27,,123191,empleado/a calificado/a / funcionario/a,2
+100000555,Hombre,,67,,171052,,0
+100000556,Mujer,soltero/a,22,,99328,empleado/a calificado/a / funcionario/a,0
+100000557,Hombre,,28,secundaria,133799,empleado/a calificado/a / funcionario/a,2
+100000558,Hombre,,29,secundaria,138256,empleado/a calificado/a / funcionario/a,2
+100000559,Mujer,soltero/a,27,,115638,empleado/a calificado/a / funcionario/a,0
+100000560,Mujer,soltero/a,31,,82238,desempleado/a / no calificado/a,0
+100000561,Mujer,soltero/a,49,secundaria,127543,empleado/a calificado/a / funcionario/a,1
+100000562,Mujer,soltero/a,24,,63987,desempleado/a / no calificado/a,0
+100000563,Hombre,,29,secundaria,114784,empleado/a calificado/a / funcionario/a,0
+100000564,Mujer,soltero/a,37,secundaria,217450,empleado/a calificado/a / funcionario/a,1
+100000565,Mujer,soltero/a,37,secundaria,173751,,2
+100000566,Hombre,,23,secundaria,122850,empleado/a calificado/a / funcionario/a,0
+100000567,Mujer,,36,secundaria,104953,empleado/a calificado/a / funcionario/a,0
+100000568,Mujer,soltero/a,34,secundaria,152371,empleado/a calificado/a / funcionario/a,1
+100000569,Mujer,soltero/a,41,secundaria,139905,empleado/a calificado/a / funcionario/a,0
+100000570,Hombre,,31,secundaria,156700,empleado/a calificado/a / funcionario/a,1
+100000571,Hombre,,23,secundaria,86488,desempleado/a / no calificado/a,0
+100000572,Mujer,soltero/a,38,secundaria,147472,empleado/a calificado/a / funcionario/a,0
+100000573,Hombre,,26,secundaria,169991,,0
+100000574,Hombre,,22,secundaria,62381,desempleado/a / no calificado/a,0
+100000575,Mujer,soltero/a,27,,70926,desempleado/a / no calificado/a,0
+100000576,Hombre,,24,secundaria,113004,empleado/a calificado/a / funcionario/a,1
+100000577,Hombre,,27,secundaria,125760,empleado/a calificado/a / funcionario/a,0
+100000578,Hombre,,33,secundaria,111918,empleado/a calificado/a / funcionario/a,2
+100000579,Mujer,,27,secundaria,120674,empleado/a calificado/a / funcionario/a,1
+100000580,Mujer,,27,secundaria,63597,desempleado/a / no calificado/a,0
+100000581,Mujer,soltero/a,30,,103069,empleado/a calificado/a / funcionario/a,1
+100000582,Mujer,soltero/a,49,secundaria,108079,desempleado/a / no calificado/a,0
+100000583,Hombre,,26,secundaria,101159,empleado/a calificado/a / funcionario/a,1
+100000584,Mujer,soltero/a,33,secundaria,88211,desempleado/a / no calificado/a,0
+100000585,Hombre,,52,universidad,159052,,1
+100000586,Hombre,,20,secundaria,102623,empleado/a calificado/a / funcionario/a,2
+100000587,Mujer,soltero/a,36,secundaria,115589,empleado/a calificado/a / funcionario/a,0
+100000588,Mujer,soltero/a,21,,59127,desempleado/a / no calificado/a,0
+100000589,Mujer,,47,universidad,82240,desempleado/a / no calificado/a,0
+100000590,Mujer,soltero/a,60,universidad,129425,empleado/a calificado/a / funcionario/a,1
+100000591,Hombre,,58,universidad,87058,desempleado/a / no calificado/a,0
+100000592,Hombre,,42,universidad,128462,empleado/a calificado/a / funcionario/a,2
+100000593,Hombre,,36,secundaria,121403,desempleado/a / no calificado/a,0
+100000594,Hombre,,20,secundaria,88141,desempleado/a / no calificado/a,0
+100000595,Mujer,soltero/a,40,secundaria,134946,,2
+100000596,Hombre,,32,secundaria,94058,desempleado/a / no calificado/a,0
+100000597,Hombre,,23,secundaria,99285,empleado/a calificado/a / funcionario/a,1
+100000598,Mujer,soltero/a,36,secundaria,108432,desempleado/a / no calificado/a,0
+100000599,Mujer,soltero/a,31,,111369,empleado/a calificado/a / funcionario/a,0
+100000600,Mujer,soltero/a,32,,122612,empleado/a calificado/a / funcionario/a,2
+100000601,Hombre,,45,universidad,134350,empleado/a calificado/a / funcionario/a,0
+100000602,Hombre,,30,secundaria,108838,empleado/a calificado/a / funcionario/a,2
+100000603,Hombre,,34,secundaria,90852,desempleado/a / no calificado/a,0
+100000604,Hombre,,28,secundaria,151580,,2
+100000605,Hombre,,23,secundaria,115681,empleado/a calificado/a / funcionario/a,1
+100000606,Mujer,soltero/a,22,,131699,empleado/a calificado/a / funcionario/a,1
+100000607,Mujer,soltero/a,74,universidad,192481,,1
+100000608,Hombre,,50,universidad,155122,empleado/a calificado/a / funcionario/a,2
+100000609,Mujer,soltero/a,33,secundaria,106015,empleado/a calificado/a / funcionario/a,2
+100000610,Mujer,soltero/a,45,secundaria,108378,empleado/a calificado/a / funcionario/a,0
+100000611,Hombre,,22,secundaria,105257,empleado/a calificado/a / funcionario/a,1
+100000612,Hombre,,48,universidad,118788,desempleado/a / no calificado/a,0
+100000613,Hombre,,29,secundaria,162955,empleado/a calificado/a / funcionario/a,2
+100000614,Hombre,,22,secundaria,119511,empleado/a calificado/a / funcionario/a,2
+100000615,Hombre,,22,secundaria,102000,empleado/a calificado/a / funcionario/a,0
+100000616,Mujer,soltero/a,48,secundaria,254449,,1
+100000617,Mujer,soltero/a,27,,208446,,2
+100000618,Mujer,soltero/a,37,secundaria,124805,empleado/a calificado/a / funcionario/a,0
+100000619,Hombre,,21,secundaria,139379,empleado/a calificado/a / funcionario/a,0
+100000620,Mujer,,49,universidad,78296,desempleado/a / no calificado/a,0
+100000621,Mujer,soltero/a,27,,125598,empleado/a calificado/a / funcionario/a,1
+100000622,Mujer,soltero/a,32,,100215,empleado/a calificado/a / funcionario/a,2
+100000623,Mujer,,38,secundaria,130951,empleado/a calificado/a / funcionario/a,2
+100000624,Hombre,,22,secundaria,102480,empleado/a calificado/a / funcionario/a,2
+100000625,Mujer,soltero/a,65,universidad,136812,empleado/a calificado/a / funcionario/a,1
+100000626,Mujer,soltero/a,35,secundaria,106919,empleado/a calificado/a / funcionario/a,1
+100000627,Mujer,soltero/a,41,secundaria,131020,empleado/a calificado/a / funcionario/a,2
+100000628,Mujer,soltero/a,29,,119429,empleado/a calificado/a / funcionario/a,1
+100000629,Mujer,soltero/a,36,secundaria,154521,empleado/a calificado/a / funcionario/a,1
+100000630,Mujer,soltero/a,64,universidad,117842,desempleado/a / no calificado/a,0
+100000631,Hombre,,28,secundaria,124566,empleado/a calificado/a / funcionario/a,2
+100000632,Mujer,soltero/a,44,secundaria,110009,empleado/a calificado/a / funcionario/a,2
+100000633,Mujer,soltero/a,23,,101210,empleado/a calificado/a / funcionario/a,1
+100000634,Hombre,,19,secundaria,101258,empleado/a calificado/a / funcionario/a,0
+100000635,Hombre,,25,secundaria,79045,desempleado/a / no calificado/a,0
+100000636,Mujer,soltero/a,47,secundaria,110866,empleado/a calificado/a / funcionario/a,0
+100000637,Hombre,,28,secundaria,129640,empleado/a calificado/a / funcionario/a,2
+100000638,Mujer,soltero/a,21,,227021,empleado/a calificado/a / funcionario/a,1
+100000639,Hombre,,34,secundaria,108549,empleado/a calificado/a / funcionario/a,1
+100000640,Mujer,soltero/a,26,,122693,empleado/a calificado/a / funcionario/a,0
+100000641,Hombre,,27,secundaria,35832,desempleado/a / no calificado/a,0
+100000642,Mujer,soltero/a,38,secundaria,81870,desempleado/a / no calificado/a,0
+100000643,Mujer,soltero/a,40,secundaria,179790,,2
+100000644,Mujer,,33,secundaria,107158,empleado/a calificado/a / funcionario/a,1
+100000645,Mujer,,32,secundaria,136638,,1
+100000646,Mujer,soltero/a,27,,158147,empleado/a calificado/a / funcionario/a,2
+100000647,Mujer,,32,secundaria,132587,empleado/a calificado/a / funcionario/a,2
+100000648,Hombre,,26,secundaria,128140,empleado/a calificado/a / funcionario/a,2
+100000649,Mujer,soltero/a,38,secundaria,117405,empleado/a calificado/a / funcionario/a,1
+100000650,Mujer,soltero/a,40,secundaria,68475,desempleado/a / no calificado/a,0
+100000651,Mujer,soltero/a,50,secundaria,201656,,2
+100000652,Mujer,soltero/a,37,secundaria,86967,desempleado/a / no calificado/a,0
+100000653,Mujer,soltero/a,45,secundaria,118006,empleado/a calificado/a / funcionario/a,1
+100000654,Mujer,soltero/a,42,secundaria,223630,,2
+100000655,Mujer,soltero/a,35,secundaria,110442,empleado/a calificado/a / funcionario/a,0
+100000656,Mujer,soltero/a,22,,115691,empleado/a calificado/a / funcionario/a,2
+100000657,Mujer,soltero/a,41,secundaria,80232,desempleado/a / no calificado/a,0
+100000658,Mujer,soltero/a,37,secundaria,187647,empleado/a calificado/a / funcionario/a,1
+100000659,Hombre,,28,secundaria,138952,empleado/a calificado/a / funcionario/a,1
+100000660,Mujer,soltero/a,41,secundaria,162772,empleado/a calificado/a / funcionario/a,2
+100000661,Mujer,,23,secundaria,111862,empleado/a calificado/a / funcionario/a,1
+100000662,Mujer,,23,secundaria,90051,empleado/a calificado/a / funcionario/a,1
+100000663,Mujer,soltero/a,50,secundaria,121400,empleado/a calificado/a / funcionario/a,1
+100000664,Mujer,soltero/a,35,secundaria,137000,,2
+100000665,Hombre,,50,universidad,105031,desempleado/a / no calificado/a,0
+100000666,Mujer,soltero/a,27,,172153,,2
+100000667,Mujer,soltero/a,34,secundaria,170184,empleado/a calificado/a / funcionario/a,1
+100000668,Hombre,,27,secundaria,123279,empleado/a calificado/a / funcionario/a,1
+100000669,Mujer,soltero/a,43,secundaria,140795,empleado/a calificado/a / funcionario/a,0
+100000670,Mujer,soltero/a,47,secundaria,144456,empleado/a calificado/a / funcionario/a,0
+100000671,Mujer,soltero/a,27,,104773,desempleado/a / no calificado/a,0
+100000672,Mujer,soltero/a,31,,153353,empleado/a calificado/a / funcionario/a,1
+100000673,Mujer,soltero/a,42,secundaria,223018,,1
+100000674,Mujer,,24,secundaria,129177,empleado/a calificado/a / funcionario/a,2
+100000675,Mujer,soltero/a,41,secundaria,114475,desempleado/a / no calificado/a,1
+100000676,Hombre,,26,secundaria,161323,,1
+100000677,Mujer,soltero/a,33,secundaria,135765,empleado/a calificado/a / funcionario/a,2
+100000678,Mujer,,24,secundaria,158421,empleado/a calificado/a / funcionario/a,0
+100000679,Mujer,soltero/a,64,universidad,103941,desempleado/a / no calificado/a,0
+100000680,Hombre,,26,secundaria,101783,empleado/a calificado/a / funcionario/a,2
+100000681,Hombre,,56,universidad,126531,empleado/a calificado/a / funcionario/a,1
+100000682,Mujer,soltero/a,37,secundaria,111394,empleado/a calificado/a / funcionario/a,1
+100000683,Mujer,,33,secundaria,103577,empleado/a calificado/a / funcionario/a,2
+100000684,Mujer,,47,universidad,149545,empleado/a calificado/a / funcionario/a,1
+100000685,Mujer,soltero/a,31,,171857,desempleado/a / no calificado/a,0
+100000686,Mujer,soltero/a,34,secundaria,149782,empleado/a calificado/a / funcionario/a,1
+100000687,Mujer,soltero/a,27,,112470,empleado/a calificado/a / funcionario/a,1
+100000688,Mujer,soltero/a,30,,133907,empleado/a calificado/a / funcionario/a,2
+100000689,Mujer,soltero/a,35,secundaria,127849,empleado/a calificado/a / funcionario/a,1
+100000690,Mujer,soltero/a,31,,160279,empleado/a calificado/a / funcionario/a,2
+100000691,Mujer,,25,secundaria,92366,empleado/a calificado/a / funcionario/a,2
+100000692,Hombre,,25,secundaria,104794,desempleado/a / no calificado/a,0
+100000693,Mujer,soltero/a,29,,133436,empleado/a calificado/a / funcionario/a,1
+100000694,Mujer,soltero/a,44,secundaria,110374,desempleado/a / no calificado/a,0
+100000695,Mujer,soltero/a,28,,104263,empleado/a calificado/a / funcionario/a,1
+100000696,Mujer,soltero/a,50,secundaria,138752,empleado/a calificado/a / funcionario/a,0
+100000697,Mujer,soltero/a,29,,102723,empleado/a calificado/a / funcionario/a,0
+100000698,Hombre,,38,secundaria,46297,desempleado/a / no calificado/a,0
+100000699,Mujer,soltero/a,24,,96425,empleado/a calificado/a / funcionario/a,1
+100000700,Mujer,soltero/a,40,secundaria,158197,,1
+100000701,Hombre,,29,secundaria,98008,desempleado/a / no calificado/a,0
+100000702,Mujer,soltero/a,46,secundaria,157473,empleado/a calificado/a / funcionario/a,0
+100000703,Hombre,,47,universidad,149306,empleado/a calificado/a / funcionario/a,0
+100000704,Mujer,soltero/a,41,secundaria,139236,empleado/a calificado/a / funcionario/a,1
+100000705,Hombre,,32,secundaria,125890,empleado/a calificado/a / funcionario/a,2
+100000706,Hombre,,35,secundaria,173124,empleado/a calificado/a / funcionario/a,1
+100000707,Mujer,soltero/a,24,,164621,empleado/a calificado/a / funcionario/a,1
+100000708,Hombre,,25,secundaria,124539,empleado/a calificado/a / funcionario/a,1
+100000709,Hombre,,25,secundaria,107614,empleado/a calificado/a / funcionario/a,1
+100000710,Mujer,soltero/a,37,secundaria,88849,desempleado/a / no calificado/a,0
+100000711,Mujer,soltero/a,32,,148566,,2
+100000712,Hombre,,35,secundaria,106515,empleado/a calificado/a / funcionario/a,2
+100000713,Mujer,soltero/a,46,secundaria,150465,,1
+100000714,Mujer,soltero/a,25,,60868,desempleado/a / no calificado/a,0
+100000715,Mujer,soltero/a,27,,255198,,2
+100000716,Mujer,soltero/a,63,universidad,183178,empleado/a calificado/a / funcionario/a,1
+100000717,Mujer,soltero/a,40,secundaria,121448,empleado/a calificado/a / funcionario/a,2
+100000718,Mujer,soltero/a,32,,129975,,2
+100000719,Mujer,soltero/a,31,,132950,empleado/a calificado/a / funcionario/a,2
+100000720,Mujer,,31,secundaria,169314,empleado/a calificado/a / funcionario/a,1
+100000721,Mujer,soltero/a,34,secundaria,147958,,1
+100000722,Hombre,,24,secundaria,139896,empleado/a calificado/a / funcionario/a,2
+100000723,Hombre,,24,secundaria,68028,desempleado/a / no calificado/a,0
+100000724,Hombre,,66,,133328,desempleado/a / no calificado/a,0
+100000725,Hombre,,21,secundaria,108518,empleado/a calificado/a / funcionario/a,2
+100000726,Hombre,,41,universidad,112700,desempleado/a / no calificado/a,0
+100000727,Mujer,,47,universidad,110190,desempleado/a / no calificado/a,0
+100000728,Hombre,,25,secundaria,105104,empleado/a calificado/a / funcionario/a,1
+100000729,Hombre,,59,universidad,184753,empleado/a calificado/a / funcionario/a,1
+100000730,Mujer,,36,secundaria,162521,empleado/a calificado/a / funcionario/a,2
+100000731,Mujer,soltero/a,33,secundaria,156794,empleado/a calificado/a / funcionario/a,1
+100000732,Mujer,soltero/a,21,,65827,desempleado/a / no calificado/a,0
+100000733,Hombre,,44,universidad,88490,desempleado/a / no calificado/a,0
+100000734,Hombre,,28,secundaria,154919,empleado/a calificado/a / funcionario/a,2
+100000735,Hombre,,37,secundaria,129058,empleado/a calificado/a / funcionario/a,0
+100000736,Hombre,,29,secundaria,77532,desempleado/a / no calificado/a,0
+100000737,Hombre,,23,secundaria,235417,,2
+100000738,Mujer,soltero/a,35,secundaria,113468,desempleado/a / no calificado/a,0
+100000739,Mujer,soltero/a,45,secundaria,190803,,2
+100000740,Hombre,,26,secundaria,121423,desempleado/a / no calificado/a,0
+100000741,Mujer,soltero/a,32,,121347,empleado/a calificado/a / funcionario/a,1
+100000742,Mujer,soltero/a,23,,67408,desempleado/a / no calificado/a,0
+100000743,Mujer,soltero/a,41,secundaria,123043,empleado/a calificado/a / funcionario/a,1
+100000744,Mujer,soltero/a,22,,128387,empleado/a calificado/a / funcionario/a,2
+100000745,Mujer,soltero/a,30,,250050,,1
+100000746,Mujer,soltero/a,28,,69588,desempleado/a / no calificado/a,0
+100000747,Hombre,,23,secundaria,109547,empleado/a calificado/a / funcionario/a,1
+100000748,Hombre,,37,secundaria,78840,desempleado/a / no calificado/a,0
+100000749,Mujer,soltero/a,26,,131122,empleado/a calificado/a / funcionario/a,0
+100000750,Mujer,soltero/a,33,secundaria,115403,empleado/a calificado/a / funcionario/a,1
+100000751,Hombre,,49,universidad,110291,empleado/a calificado/a / funcionario/a,2
+100000752,Hombre,,23,secundaria,64811,desempleado/a / no calificado/a,0
+100000753,Hombre,,23,secundaria,86015,desempleado/a / no calificado/a,0
+100000754,Hombre,,25,secundaria,142438,empleado/a calificado/a / funcionario/a,2
+100000755,Mujer,soltero/a,55,secundaria,159303,empleado/a calificado/a / funcionario/a,1
+100000756,Hombre,,32,secundaria,104957,empleado/a calificado/a / funcionario/a,1
+100000757,Mujer,soltero/a,74,universidad,89502,desempleado/a / no calificado/a,0
+100000758,Mujer,soltero/a,39,secundaria,121313,empleado/a calificado/a / funcionario/a,1
+100000759,Mujer,soltero/a,31,,98102,empleado/a calificado/a / funcionario/a,0
+100000760,Mujer,soltero/a,35,secundaria,94554,empleado/a calificado/a / funcionario/a,1
+100000761,Hombre,,59,universidad,162591,empleado/a calificado/a / funcionario/a,1
+100000762,Hombre,,24,secundaria,106629,empleado/a calificado/a / funcionario/a,2
+100000763,Mujer,soltero/a,24,,70400,desempleado/a / no calificado/a,0
+100000764,Mujer,soltero/a,30,,235660,,2
+100000765,Mujer,,27,secundaria,121747,empleado/a calificado/a / funcionario/a,2
+100000766,Mujer,,40,secundaria,85060,desempleado/a / no calificado/a,0
+100000767,Mujer,,31,secundaria,87630,desempleado/a / no calificado/a,0
+100000768,Hombre,,31,secundaria,119673,empleado/a calificado/a / funcionario/a,0
+100000769,Mujer,soltero/a,28,,126060,empleado/a calificado/a / funcionario/a,2
+100000770,Mujer,soltero/a,63,universidad,96145,desempleado/a / no calificado/a,0
+100000771,Hombre,,26,secundaria,114830,empleado/a calificado/a / funcionario/a,0
+100000772,Hombre,,25,secundaria,194461,,2
+100000773,Mujer,soltero/a,36,secundaria,150158,,2
+100000774,Mujer,soltero/a,52,secundaria,136323,empleado/a calificado/a / funcionario/a,2
+100000775,Mujer,soltero/a,66,universidad,111858,desempleado/a / no calificado/a,0
+100000776,Hombre,,25,secundaria,100198,empleado/a calificado/a / funcionario/a,0
+100000777,Mujer,soltero/a,37,secundaria,123452,empleado/a calificado/a / funcionario/a,2
+100000778,Hombre,,25,secundaria,120723,empleado/a calificado/a / funcionario/a,1
+100000779,Mujer,soltero/a,38,secundaria,215639,,1
+100000780,Hombre,,67,,166712,empleado/a calificado/a / funcionario/a,1
+100000781,Mujer,soltero/a,25,,136300,empleado/a calificado/a / funcionario/a,1
+100000782,Mujer,soltero/a,60,universidad,166988,empleado/a calificado/a / funcionario/a,2
+100000783,Mujer,soltero/a,31,,77265,desempleado/a / no calificado/a,0
+100000784,Hombre,,23,secundaria,85967,desempleado/a / no calificado/a,0
+100000785,Mujer,,60,universidad,212020,,0
+100000786,Mujer,soltero/a,35,secundaria,126054,desempleado/a / no calificado/a,0
+100000787,Mujer,soltero/a,40,secundaria,144589,empleado/a calificado/a / funcionario/a,0
+100000788,Mujer,soltero/a,38,secundaria,116723,empleado/a calificado/a / funcionario/a,1
+100000789,Mujer,soltero/a,50,secundaria,168637,empleado/a calificado/a / funcionario/a,1
+100000790,Mujer,soltero/a,27,,139119,empleado/a calificado/a / funcionario/a,1
+100000791,Hombre,,39,universidad,118610,empleado/a calificado/a / funcionario/a,2
+100000792,Mujer,soltero/a,41,secundaria,183312,,2
+100000793,Mujer,,27,secundaria,96323,empleado/a calificado/a / funcionario/a,0
+100000794,Mujer,,51,universidad,149510,empleado/a calificado/a / funcionario/a,2
+100000795,Mujer,soltero/a,32,,141922,empleado/a calificado/a / funcionario/a,2
+100000796,Hombre,,22,secundaria,120233,empleado/a calificado/a / funcionario/a,0
+100000797,Mujer,soltero/a,51,secundaria,172790,empleado/a calificado/a / funcionario/a,1
+100000798,Hombre,,22,secundaria,66720,desempleado/a / no calificado/a,0
+100000799,Mujer,,54,universidad,113024,empleado/a calificado/a / funcionario/a,1
+100000800,Mujer,soltero/a,35,secundaria,51791,desempleado/a / no calificado/a,0
+100000801,Mujer,soltero/a,54,secundaria,118408,empleado/a calificado/a / funcionario/a,2
+100000802,Hombre,,48,universidad,101616,desempleado/a / no calificado/a,0
+100000803,Hombre,,24,secundaria,127250,empleado/a calificado/a / funcionario/a,0
+100000804,Mujer,soltero/a,35,secundaria,97290,empleado/a calificado/a / funcionario/a,0
+100000805,Hombre,,24,secundaria,106970,desempleado/a / no calificado/a,0
+100000806,Mujer,soltero/a,24,,168147,empleado/a calificado/a / funcionario/a,2
+100000807,Mujer,,26,secundaria,68468,desempleado/a / no calificado/a,0
+100000808,Mujer,soltero/a,65,universidad,120780,empleado/a calificado/a / funcionario/a,2
+100000809,Mujer,soltero/a,55,secundaria,231992,,2
+100000810,Hombre,,26,secundaria,53903,desempleado/a / no calificado/a,0
+100000811,Mujer,,26,secundaria,101511,empleado/a calificado/a / funcionario/a,2
+100000812,Mujer,,28,secundaria,69046,desempleado/a / no calificado/a,0
+100000813,Mujer,soltero/a,24,,171584,empleado/a calificado/a / funcionario/a,1
+100000814,Mujer,soltero/a,54,secundaria,132367,empleado/a calificado/a / funcionario/a,2
+100000815,Mujer,soltero/a,46,secundaria,134433,empleado/a calificado/a / funcionario/a,2
+100000816,Hombre,,54,universidad,190518,empleado/a calificado/a / funcionario/a,0
+100000817,Mujer,,62,universidad,152367,empleado/a calificado/a / funcionario/a,1
+100000818,Hombre,,24,secundaria,101157,empleado/a calificado/a / funcionario/a,1
+100000819,Mujer,,43,universidad,279593,,2
+100000820,Mujer,,26,secundaria,96716,empleado/a calificado/a / funcionario/a,2
+100000821,Mujer,,27,secundaria,95171,empleado/a calificado/a / funcionario/a,0
+100000822,Mujer,,24,secundaria,129162,empleado/a calificado/a / funcionario/a,2
+100000823,Mujer,soltero/a,41,secundaria,118742,empleado/a calificado/a / funcionario/a,0
+100000824,Mujer,soltero/a,47,secundaria,74511,desempleado/a / no calificado/a,0
+100000825,Mujer,,35,secundaria,157272,,1
+100000826,Mujer,,30,secundaria,102374,empleado/a calificado/a / funcionario/a,0
+100000827,Hombre,,33,secundaria,131492,empleado/a calificado/a / funcionario/a,0
+100000828,Mujer,soltero/a,36,secundaria,128702,empleado/a calificado/a / funcionario/a,2
+100000829,Mujer,soltero/a,47,secundaria,177509,empleado/a calificado/a / funcionario/a,2
+100000830,Mujer,soltero/a,38,secundaria,163451,empleado/a calificado/a / funcionario/a,1
+100000831,Mujer,soltero/a,44,secundaria,144900,empleado/a calificado/a / funcionario/a,1
+100000832,Hombre,,23,secundaria,97115,empleado/a calificado/a / funcionario/a,2
+100000833,Mujer,soltero/a,29,,196568,empleado/a calificado/a / funcionario/a,2
+100000834,Hombre,,42,universidad,158405,empleado/a calificado/a / funcionario/a,0
+100000835,Hombre,,25,secundaria,97376,desempleado/a / no calificado/a,0
+100000836,Mujer,soltero/a,48,secundaria,108678,empleado/a calificado/a / funcionario/a,1
+100000837,Hombre,,21,secundaria,92351,empleado/a calificado/a / funcionario/a,0
+100000838,Hombre,,23,secundaria,61211,desempleado/a / no calificado/a,0
+100000839,Mujer,soltero/a,63,universidad,138644,empleado/a calificado/a / funcionario/a,0
+100000840,Mujer,,46,universidad,124824,empleado/a calificado/a / funcionario/a,2
+100000841,Mujer,soltero/a,29,,132852,empleado/a calificado/a / funcionario/a,0
+100000842,Mujer,soltero/a,28,,81069,desempleado/a / no calificado/a,0
+100000843,Hombre,,23,secundaria,104094,empleado/a calificado/a / funcionario/a,2
+100000844,Mujer,soltero/a,50,secundaria,114853,empleado/a calificado/a / funcionario/a,0
+100000845,Mujer,soltero/a,47,secundaria,130344,empleado/a calificado/a / funcionario/a,2
+100000846,Mujer,soltero/a,35,secundaria,135090,empleado/a calificado/a / funcionario/a,0
+100000847,Mujer,soltero/a,68,universidad,179151,empleado/a calificado/a / funcionario/a,2
+100000848,Mujer,,28,secundaria,97390,empleado/a calificado/a / funcionario/a,1
+100000849,Mujer,soltero/a,59,universidad,120160,empleado/a calificado/a / funcionario/a,0
+100000850,Mujer,soltero/a,57,universidad,82277,desempleado/a / no calificado/a,0
+100000851,Mujer,,33,secundaria,110844,empleado/a calificado/a / funcionario/a,2
+100000852,Mujer,soltero/a,43,secundaria,133105,empleado/a calificado/a / funcionario/a,0
+100000853,Mujer,soltero/a,35,secundaria,102042,empleado/a calificado/a / funcionario/a,0
+100000854,Mujer,soltero/a,32,,69370,desempleado/a / no calificado/a,0
+100000855,Mujer,soltero/a,45,secundaria,200298,empleado/a calificado/a / funcionario/a,1
+100000856,Mujer,,33,secundaria,117039,empleado/a calificado/a / funcionario/a,2
+100000857,Hombre,,40,universidad,107585,empleado/a calificado/a / funcionario/a,2
+100000858,Mujer,soltero/a,28,,114429,empleado/a calificado/a / funcionario/a,0
+100000859,Hombre,,29,secundaria,128234,empleado/a calificado/a / funcionario/a,2
+100000860,Mujer,soltero/a,26,,128580,empleado/a calificado/a / funcionario/a,2
+100000861,Mujer,soltero/a,27,,177757,empleado/a calificado/a / funcionario/a,1
+100000862,Mujer,,28,secundaria,106222,empleado/a calificado/a / funcionario/a,0
+100000863,Hombre,,35,secundaria,118428,empleado/a calificado/a / funcionario/a,2
+100000864,Mujer,soltero/a,32,,139477,desempleado/a / no calificado/a,0
+100000865,Mujer,soltero/a,25,,71159,desempleado/a / no calificado/a,0
+100000866,Hombre,,20,secundaria,131370,empleado/a calificado/a / funcionario/a,2
+100000867,Hombre,,27,secundaria,111567,empleado/a calificado/a / funcionario/a,2
+100000868,Mujer,soltero/a,42,secundaria,125482,empleado/a calificado/a / funcionario/a,2
+100000869,Mujer,soltero/a,37,secundaria,160642,empleado/a calificado/a / funcionario/a,2
+100000870,Hombre,,24,secundaria,92498,empleado/a calificado/a / funcionario/a,0
+100000871,Hombre,,40,universidad,199711,empleado/a calificado/a / funcionario/a,2
+100000872,Mujer,soltero/a,46,secundaria,127588,empleado/a calificado/a / funcionario/a,2
+100000873,Mujer,soltero/a,26,,107508,empleado/a calificado/a / funcionario/a,2
+100000874,Hombre,,24,secundaria,94629,empleado/a calificado/a / funcionario/a,2
+100000875,Mujer,soltero/a,29,,87598,desempleado/a / no calificado/a,2
+100000876,Hombre,,40,universidad,161194,empleado/a calificado/a / funcionario/a,1
+100000877,Mujer,soltero/a,36,secundaria,137342,,2
+100000878,Mujer,soltero/a,28,,116848,empleado/a calificado/a / funcionario/a,1
+100000879,Mujer,soltero/a,27,,125190,,1
+100000880,Mujer,soltero/a,36,secundaria,153441,empleado/a calificado/a / funcionario/a,0
+100000881,Mujer,soltero/a,38,secundaria,195328,,2
+100000882,Mujer,,48,universidad,190413,empleado/a calificado/a / funcionario/a,0
+100000883,Mujer,soltero/a,36,secundaria,118656,empleado/a calificado/a / funcionario/a,1
+100000884,Hombre,,65,,69487,desempleado/a / no calificado/a,0
+100000885,Mujer,,43,universidad,145313,empleado/a calificado/a / funcionario/a,1
+100000886,Hombre,,53,universidad,117005,empleado/a calificado/a / funcionario/a,1
+100000887,Mujer,soltero/a,34,secundaria,123243,empleado/a calificado/a / funcionario/a,1
+100000888,Mujer,soltero/a,23,,237799,empleado/a calificado/a / funcionario/a,1
+100000889,Mujer,soltero/a,34,secundaria,180617,,2
+100000890,Mujer,soltero/a,40,secundaria,167019,empleado/a calificado/a / funcionario/a,0
+100000891,Mujer,soltero/a,43,secundaria,147745,,2
+100000892,Mujer,soltero/a,46,secundaria,114254,empleado/a calificado/a / funcionario/a,1
+100000893,Mujer,soltero/a,38,secundaria,81155,desempleado/a / no calificado/a,0
+100000894,Mujer,soltero/a,34,secundaria,151803,empleado/a calificado/a / funcionario/a,2
+100000895,Mujer,soltero/a,29,,94356,empleado/a calificado/a / funcionario/a,2
+100000896,Mujer,soltero/a,31,,200621,,2
+100000897,Hombre,,28,secundaria,144448,,1
+100000898,Hombre,,35,secundaria,150797,empleado/a calificado/a / funcionario/a,0
+100000899,Hombre,,33,secundaria,84404,desempleado/a / no calificado/a,0
+100000900,Mujer,soltero/a,42,secundaria,133373,empleado/a calificado/a / funcionario/a,2
+100000901,Mujer,soltero/a,43,secundaria,119502,empleado/a calificado/a / funcionario/a,2
+100000902,Mujer,,44,universidad,131619,empleado/a calificado/a / funcionario/a,0
+100000903,Mujer,soltero/a,42,secundaria,194084,empleado/a calificado/a / funcionario/a,2
+100000904,Mujer,,40,secundaria,108278,empleado/a calificado/a / funcionario/a,1
+100000905,Mujer,soltero/a,36,secundaria,130987,,1
+100000906,Mujer,soltero/a,20,,116582,,2
+100000907,Mujer,soltero/a,24,,85270,desempleado/a / no calificado/a,0
+100000908,Mujer,,27,secundaria,129227,empleado/a calificado/a / funcionario/a,0
+100000909,Hombre,,46,universidad,108291,desempleado/a / no calificado/a,0
+100000910,Hombre,,33,secundaria,103091,desempleado/a / no calificado/a,0
+100000911,Hombre,,34,secundaria,136975,empleado/a calificado/a / funcionario/a,1
+100000912,Hombre,,25,secundaria,111502,desempleado/a / no calificado/a,0
+100000913,Hombre,,25,secundaria,124750,empleado/a calificado/a / funcionario/a,1
+100000914,Mujer,,28,secundaria,146463,empleado/a calificado/a / funcionario/a,2
+100000915,Mujer,soltero/a,31,,115075,empleado/a calificado/a / funcionario/a,0
+100000916,Hombre,,32,secundaria,308491,,1
+100000917,Mujer,soltero/a,32,,126368,empleado/a calificado/a / funcionario/a,0
+100000918,Mujer,soltero/a,68,universidad,287247,,2
+100000919,Mujer,,33,secundaria,125535,empleado/a calificado/a / funcionario/a,2
+100000920,Mujer,soltero/a,39,secundaria,153223,,2
+100000921,Hombre,,28,secundaria,106873,empleado/a calificado/a / funcionario/a,1
+100000922,Mujer,soltero/a,37,secundaria,268906,,1
+100000923,Hombre,,22,secundaria,97757,empleado/a calificado/a / funcionario/a,2
+100000924,Mujer,soltero/a,30,,112151,empleado/a calificado/a / funcionario/a,1
+100000925,Mujer,,55,universidad,172909,empleado/a calificado/a / funcionario/a,0
+100000926,Mujer,soltero/a,46,secundaria,103387,empleado/a calificado/a / funcionario/a,1
+100000927,Hombre,,21,secundaria,93916,empleado/a calificado/a / funcionario/a,2
+100000928,Mujer,soltero/a,39,secundaria,189963,empleado/a calificado/a / funcionario/a,2
+100000929,Mujer,soltero/a,58,universidad,124191,empleado/a calificado/a / funcionario/a,0
+100000930,Mujer,soltero/a,43,secundaria,77205,desempleado/a / no calificado/a,0
+100000931,Mujer,soltero/a,24,,65917,desempleado/a / no calificado/a,0
+100000932,Hombre,,22,secundaria,109676,empleado/a calificado/a / funcionario/a,0
+100000933,Mujer,soltero/a,30,,95682,empleado/a calificado/a / funcionario/a,2
+100000934,Mujer,soltero/a,42,secundaria,125516,empleado/a calificado/a / funcionario/a,2
+100000935,Hombre,,23,secundaria,99822,empleado/a calificado/a / funcionario/a,0
+100000936,Mujer,soltero/a,30,,154854,,1
+100000937,Hombre,,28,secundaria,84582,desempleado/a / no calificado/a,0
+100000938,Mujer,,30,secundaria,145800,,0
+100000939,Mujer,soltero/a,42,secundaria,162869,empleado/a calificado/a / funcionario/a,1
+100000940,Mujer,soltero/a,46,secundaria,192379,,2
+100000941,Mujer,soltero/a,45,secundaria,159757,,2
+100000942,Mujer,soltero/a,31,,69571,desempleado/a / no calificado/a,0
+100000943,Mujer,soltero/a,31,,93648,empleado/a calificado/a / funcionario/a,2
+100000944,Mujer,soltero/a,42,secundaria,77472,desempleado/a / no calificado/a,0
+100000945,Hombre,,46,universidad,121501,empleado/a calificado/a / funcionario/a,0
+100000946,Hombre,,30,secundaria,207262,empleado/a calificado/a / funcionario/a,0
+100000947,Mujer,soltero/a,30,,143082,empleado/a calificado/a / funcionario/a,2
+100000948,Mujer,soltero/a,38,secundaria,147760,,1
+100000949,Mujer,,43,universidad,82082,desempleado/a / no calificado/a,0
+100000950,Mujer,soltero/a,31,,132991,empleado/a calificado/a / funcionario/a,1
+100000951,Mujer,,40,secundaria,78436,desempleado/a / no calificado/a,0
+100000952,Mujer,soltero/a,24,,99737,empleado/a calificado/a / funcionario/a,2
+100000953,Hombre,,28,secundaria,164915,empleado/a calificado/a / funcionario/a,0
+100000954,Hombre,,26,secundaria,223185,,1
+100000955,Hombre,,29,secundaria,108400,empleado/a calificado/a / funcionario/a,2
+100000956,Hombre,,57,universidad,194882,,1
+100000957,Mujer,soltero/a,49,secundaria,122186,desempleado/a / no calificado/a,0
+100000958,Mujer,soltero/a,37,secundaria,79594,desempleado/a / no calificado/a,0
+100000959,Mujer,soltero/a,45,secundaria,104355,desempleado/a / no calificado/a,0
+100000960,Mujer,soltero/a,30,,135894,empleado/a calificado/a / funcionario/a,2
+100000961,Mujer,,30,secundaria,103699,empleado/a calificado/a / funcionario/a,1
+100000962,Mujer,,47,universidad,132145,empleado/a calificado/a / funcionario/a,1
+100000963,Mujer,soltero/a,29,,117272,empleado/a calificado/a / funcionario/a,2
+100000964,Mujer,soltero/a,35,secundaria,137932,empleado/a calificado/a / funcionario/a,0
+100000965,Mujer,,22,secundaria,63972,desempleado/a / no calificado/a,0
+100000966,Hombre,,26,secundaria,113299,empleado/a calificado/a / funcionario/a,2
+100000967,Mujer,soltero/a,23,,108540,desempleado/a / no calificado/a,0
+100000968,Hombre,,54,universidad,174424,,2
+100000969,Mujer,,29,secundaria,154991,empleado/a calificado/a / funcionario/a,2
+100000970,Mujer,soltero/a,40,secundaria,99723,desempleado/a / no calificado/a,0
+100000971,Mujer,soltero/a,22,,114584,empleado/a calificado/a / funcionario/a,2
+100000972,Mujer,soltero/a,43,secundaria,135275,desempleado/a / no calificado/a,0
+100000973,Hombre,,29,secundaria,41680,desempleado/a / no calificado/a,0
+100000974,Mujer,soltero/a,36,secundaria,158769,empleado/a calificado/a / funcionario/a,1
+100000975,Hombre,,33,secundaria,120596,empleado/a calificado/a / funcionario/a,0
+100000976,Hombre,,57,universidad,139641,desempleado/a / no calificado/a,0
+100000977,Hombre,,64,,134377,empleado/a calificado/a / funcionario/a,0
+100000978,Mujer,soltero/a,42,secundaria,125804,empleado/a calificado/a / funcionario/a,2
+100000979,Mujer,soltero/a,47,secundaria,91858,desempleado/a / no calificado/a,0
+100000980,Mujer,,25,secundaria,117641,empleado/a calificado/a / funcionario/a,2
+100000981,Mujer,soltero/a,49,secundaria,188594,empleado/a calificado/a / funcionario/a,1
+100000982,Mujer,soltero/a,33,secundaria,162827,,2
+100000983,Hombre,,28,secundaria,178991,,2
+100000984,Mujer,soltero/a,26,,159739,empleado/a calificado/a / funcionario/a,1
+100000985,Mujer,soltero/a,30,,73401,desempleado/a / no calificado/a,0
+100000986,Hombre,,25,secundaria,100794,empleado/a calificado/a / funcionario/a,2
+100000987,Mujer,,33,secundaria,167763,empleado/a calificado/a / funcionario/a,1
+100000988,Hombre,,64,,145174,empleado/a calificado/a / funcionario/a,0
+100000989,Mujer,soltero/a,29,,176292,,1
+100000990,Mujer,soltero/a,48,secundaria,94024,desempleado/a / no calificado/a,0
+100000991,Mujer,soltero/a,37,secundaria,93740,desempleado/a / no calificado/a,0
+100000992,Mujer,soltero/a,34,secundaria,85685,desempleado/a / no calificado/a,0
+100000993,Mujer,,23,secundaria,69997,desempleado/a / no calificado/a,0
+100000994,Mujer,soltero/a,30,,151938,,2
+100000995,Mujer,soltero/a,50,secundaria,122830,empleado/a calificado/a / funcionario/a,1
+100000996,Hombre,,31,secundaria,78489,desempleado/a / no calificado/a,0
+100000997,Mujer,,40,secundaria,161999,,1
+100000998,Mujer,soltero/a,38,secundaria,98032,empleado/a calificado/a / funcionario/a,2
+100000999,Mujer,soltero/a,23,,96060,empleado/a calificado/a / funcionario/a,0
+100001000,Mujer,soltero/a,27,,147968,empleado/a calificado/a / funcionario/a,1
+100001001,Hombre,,63,universidad,134853,empleado/a calificado/a / funcionario/a,1
+100001002,Mujer,soltero/a,66,universidad,157576,,2
+100001003,Mujer,,43,universidad,203738,,1
+100001004,Mujer,,44,universidad,280570,,2
+100001005,Mujer,,65,,69487,desempleado/a / no calificado/a,2
+100001006,Hombre,,73,,214126,,1
+100001007,Mujer,soltero/a,60,universidad,136671,empleado/a calificado/a / funcionario/a,1
+100001008,Mujer,,62,universidad,174337,empleado/a calificado/a / funcionario/a,1
+100001009,Hombre,,58,universidad,126710,empleado/a calificado/a / funcionario/a,1
+100001010,Hombre,,43,universidad,167139,,2
+100001011,Mujer,soltero/a,64,universidad,122094,empleado/a calificado/a / funcionario/a,2
+100001012,Mujer,,37,,170113,,2
+100001013,Hombre,,46,universidad,192698,,1
+100001014,Mujer,,57,universidad,144197,empleado/a calificado/a / funcionario/a,2
+100001015,Mujer,,51,universidad,133623,empleado/a calificado/a / funcionario/a,1
+100001016,Hombre,,32,,171052,,2
+100001017,Mujer,soltero/a,64,universidad,130492,empleado/a calificado/a / funcionario/a,2
+100001018,Mujer,soltero/a,68,universidad,135705,empleado/a calificado/a / funcionario/a,1
+100001019,Hombre,,55,universidad,171804,,2
+100001020,Mujer,soltero/a,73,universidad,192167,,1
+100001021,Hombre,,34,,134377,empleado/a calificado/a / funcionario/a,2
+100001022,Mujer,,44,universidad,146716,empleado/a calificado/a / funcionario/a,1
+100001023,Mujer,soltero/a,58,universidad,267872,empleado/a calificado/a / funcionario/a,1
+100001024,Hombre,,65,universidad,142193,desempleado/a / no calificado/a,1
+100001025,Hombre,,56,universidad,183765,empleado/a calificado/a / funcionario/a,1
+100001026,Hombre,,42,universidad,218664,,2
+100001027,Hombre,,65,,145174,empleado/a calificado/a / funcionario/a,2
+100001028,Mujer,soltero/a,72,universidad,224961,,2
+100001029,Hombre,,45,universidad,262634,,2
+100001030,Mujer,soltero/a,68,universidad,287106,,2
+100001031,Mujer,soltero/a,60,universidad,166298,,1
+100001032,Hombre,,30,,133328,desempleado/a / no calificado/a,2
+100001033,Mujer,soltero/a,63,universidad,129798,empleado/a calificado/a / funcionario/a,1
+100001034,Mujer,soltero/a,57,universidad,281084,,1
+100001035,Hombre,,46,universidad,160678,empleado/a calificado/a / funcionario/a,2
+100001036,Hombre,,70,,167532,empleado/a calificado/a / funcionario/a,1
+100001037,Mujer,soltero/a,65,universidad,178591,empleado/a calificado/a / funcionario/a,2
+100001038,Mujer,soltero/a,63,universidad,273063,,2
+100001039,Mujer,,54,universidad,149410,empleado/a calificado/a / funcionario/a,2
+100001040,Mujer,,49,universidad,124658,empleado/a calificado/a / funcionario/a,2
+100001041,Hombre,,64,universidad,153645,empleado/a calificado/a / funcionario/a,2
+100001042,Hombre,,61,universidad,308529,,2
+100001043,Hombre,,57,universidad,155062,empleado/a calificado/a / funcionario/a,2
+100001044,Hombre,,42,universidad,199654,empleado/a calificado/a / funcionario/a,2
+100001045,Mujer,soltero/a,62,universidad,124723,empleado/a calificado/a / funcionario/a,2
+100001046,Hombre,,41,universidad,127752,empleado/a calificado/a / funcionario/a,2
+100001047,Hombre,,51,universidad,157595,,1
+100001048,Hombre,,38,universidad,135534,empleado/a calificado/a / funcionario/a,2
+100001049,Hombre,,56,universidad,166264,,2
+100001050,Hombre,,43,universidad,147259,empleado/a calificado/a / funcionario/a,1
+100001051,Hombre,,48,universidad,161116,empleado/a calificado/a / funcionario/a,1
+100001052,Mujer,soltero/a,61,universidad,139380,empleado/a calificado/a / funcionario/a,1
+100001053,Mujer,,48,universidad,213768,,2
+100001054,Mujer,soltero/a,68,universidad,125903,empleado/a calificado/a / funcionario/a,2
+100001055,Hombre,,62,universidad,163940,empleado/a calificado/a / funcionario/a,1
+100001056,Hombre,,56,universidad,173378,,2
+100001057,Hombre,,53,universidad,126847,empleado/a calificado/a / funcionario/a,1
+100001058,Mujer,,33,,166712,empleado/a calificado/a / funcionario/a,2
+100001059,Hombre,,60,universidad,189166,empleado/a calificado/a / funcionario/a,1
+100001060,Hombre,,47,universidad,161714,empleado/a calificado/a / funcionario/a,1
+100001061,Mujer,,25,,214364,,2
+100001062,Mujer,soltero/a,64,universidad,184680,empleado/a calificado/a / funcionario/a,1
+100001063,Mujer,soltero/a,73,universidad,214732,,1
+100001064,Mujer,,66,universidad,152527,empleado/a calificado/a / funcionario/a,1
+100001065,Hombre,,76,,170366,,1
+100001066,Hombre,,60,universidad,194532,,1
+100001067,Hombre,,57,universidad,125883,empleado/a calificado/a / funcionario/a,2
+100001068,Mujer,,30,,131242,empleado/a calificado/a / funcionario/a,2
+100001069,Mujer,,43,universidad,159880,,1
+100001070,Mujer,soltero/a,57,universidad,165519,empleado/a calificado/a / funcionario/a,2
+100001071,Mujer,,51,universidad,149653,empleado/a calificado/a / funcionario/a,1
+100001072,Hombre,,61,universidad,134102,empleado/a calificado/a / funcionario/a,1
+100001073,Mujer,soltero/a,64,universidad,159378,,2
+100001074,Mujer,,41,universidad,205476,,1
+100001075,Mujer,,43,universidad,280566,,2
+100001076,Mujer,,67,,71823,desempleado/a / no calificado/a,2
+100001077,Hombre,,71,,211572,,1
+100001078,Mujer,soltero/a,59,universidad,136123,empleado/a calificado/a / funcionario/a,1
+100001079,Mujer,,60,universidad,176372,empleado/a calificado/a / funcionario/a,1
+100001080,Hombre,,60,universidad,128271,empleado/a calificado/a / funcionario/a,1
+100001081,Hombre,,45,universidad,169020,,2
+100001082,Mujer,soltero/a,63,universidad,122267,empleado/a calificado/a / funcionario/a,2
+100001083,Mujer,,38,,169324,,2
+100001084,Hombre,,46,universidad,192561,,1
+100001085,Mujer,,55,universidad,145781,empleado/a calificado/a / funcionario/a,2
+100001086,Mujer,,50,universidad,135376,empleado/a calificado/a / funcionario/a,1
+100001087,Hombre,,30,,169002,,2
+100001088,Mujer,soltero/a,63,universidad,128469,empleado/a calificado/a / funcionario/a,2
+100001089,Mujer,soltero/a,67,universidad,135567,empleado/a calificado/a / funcionario/a,1
+100001090,Hombre,,54,universidad,170644,,2
+100001091,Mujer,soltero/a,71,universidad,192360,,1
+100001092,Hombre,,32,,133235,empleado/a calificado/a / funcionario/a,2
+100001093,Hombre,,45,universidad,260847,,2
+100001094,Mujer,soltero/a,65,universidad,285647,,2
+100001095,Mujer,soltero/a,62,universidad,164816,,1
+100001096,Hombre,,28,,130148,desempleado/a / no calificado/a,2
+100001097,Mujer,soltero/a,65,universidad,129838,empleado/a calificado/a / funcionario/a,1
+100001098,Mujer,soltero/a,57,universidad,281647,,1
+100001099,Hombre,,48,universidad,157305,empleado/a calificado/a / funcionario/a,2
+100001100,Hombre,,71,,163654,empleado/a calificado/a / funcionario/a,1
+100001101,Mujer,soltero/a,38,secundaria,82398,empleado/a calificado/a / funcionario/a,1
+100001102,Mujer,,40,secundaria,107710,empleado/a calificado/a / funcionario/a,1
+100001103,Mujer,soltero/a,49,secundaria,122346,empleado/a calificado/a / funcionario/a,1
+100001104,Mujer,,32,secundaria,155540,,1
+100001105,Mujer,soltero/a,45,secundaria,127572,empleado/a calificado/a / funcionario/a,1
+100001106,Mujer,soltero/a,40,secundaria,154031,,1
+100001107,Mujer,soltero/a,66,universidad,164931,,2
+100001108,Mujer,soltero/a,38,secundaria,123003,empleado/a calificado/a / funcionario/a,2
+100001109,Mujer,,20,secundaria,89605,empleado/a calificado/a / funcionario/a,1
+100001110,Mujer,soltero/a,48,secundaria,117721,empleado/a calificado/a / funcionario/a,1
+100001111,Mujer,,46,universidad,168904,,1
+100001112,Mujer,soltero/a,32,secundaria,137576,,2
+100001113,Mujer,soltero/a,54,secundaria,111274,empleado/a calificado/a / funcionario/a,1
+100001114,Mujer,,24,secundaria,94249,,2
+100001115,Mujer,,27,secundaria,180940,,1
+100001116,Mujer,soltero/a,57,secundaria,125032,empleado/a calificado/a / funcionario/a,2
+100001117,Mujer,soltero/a,38,secundaria,138011,,1
+100001118,Mujer,soltero/a,40,secundaria,144850,empleado/a calificado/a / funcionario/a,1
+100001119,Mujer,,20,secundaria,107270,empleado/a calificado/a / funcionario/a,2
+100001120,Mujer,soltero/a,36,secundaria,113405,,2
+100001121,Mujer,soltero/a,47,secundaria,137338,empleado/a calificado/a / funcionario/a,2
+100001122,Mujer,soltero/a,64,universidad,125119,desempleado/a / no calificado/a,2
+100001123,Mujer,soltero/a,42,secundaria,159745,,2
+100001124,Mujer,soltero/a,44,secundaria,181262,,2
+100001125,Mujer,,30,secundaria,90500,,2
+100001126,Mujer,soltero/a,37,secundaria,102733,empleado/a calificado/a / funcionario/a,1
+100001127,Mujer,soltero/a,42,secundaria,135493,empleado/a calificado/a / funcionario/a,2
+100001128,Mujer,,62,universidad,169044,empleado/a calificado/a / funcionario/a,1
+100001129,Mujer,soltero/a,49,secundaria,178549,empleado/a calificado/a / funcionario/a,2
+100001130,Mujer,soltero/a,52,secundaria,159716,empleado/a calificado/a / funcionario/a,2
+100001131,Mujer,,36,secundaria,170118,,1
+100001132,Mujer,soltero/a,49,secundaria,143886,desempleado/a / no calificado/a,1
+100001133,Mujer,soltero/a,42,secundaria,130164,,2
+100001134,Mujer,soltero/a,38,secundaria,114476,empleado/a calificado/a / funcionario/a,1
+100001135,Mujer,soltero/a,50,secundaria,126143,empleado/a calificado/a / funcionario/a,1
+100001136,Mujer,,34,secundaria,129654,,2
+100001137,Mujer,soltero/a,43,secundaria,123202,empleado/a calificado/a / funcionario/a,2
+100001138,Mujer,soltero/a,40,secundaria,160524,empleado/a calificado/a / funcionario/a,1
+100001139,Mujer,soltero/a,56,universidad,126906,empleado/a calificado/a / funcionario/a,1
+100001140,Mujer,soltero/a,41,secundaria,143994,,2
+100001141,Mujer,,30,secundaria,123517,,2
+100001142,Mujer,,28,secundaria,129055,empleado/a calificado/a / funcionario/a,2
+100001143,Mujer,soltero/a,64,universidad,136312,desempleado/a / no calificado/a,2
+100001144,Mujer,soltero/a,67,universidad,112486,empleado/a calificado/a / funcionario/a,2
+100001145,Mujer,soltero/a,37,secundaria,152401,,1
+100001146,Mujer,soltero/a,31,secundaria,157453,,1
+100001147,Mujer,soltero/a,32,secundaria,142870,,2
+100001148,Mujer,,52,universidad,137231,empleado/a calificado/a / funcionario/a,2
+100001149,Mujer,,31,secundaria,104406,empleado/a calificado/a / funcionario/a,1
+100001150,Mujer,soltero/a,36,secundaria,145385,,1
+100001151,Mujer,,32,secundaria,146519,,1
+100001152,Mujer,soltero/a,51,secundaria,126227,empleado/a calificado/a / funcionario/a,2
+100001153,Mujer,soltero/a,47,secundaria,112227,,1
+100001154,Mujer,,34,secundaria,110145,empleado/a calificado/a / funcionario/a,2
+100001155,Mujer,,46,universidad,149419,empleado/a calificado/a / funcionario/a,1
+100001156,Mujer,,42,secundaria,176646,empleado/a calificado/a / funcionario/a,1
+100001157,Mujer,soltero/a,39,secundaria,91019,,1
+100001158,Mujer,soltero/a,50,secundaria,169579,empleado/a calificado/a / funcionario/a,2
+100001159,Mujer,soltero/a,42,secundaria,142305,empleado/a calificado/a / funcionario/a,2
+100001160,Mujer,,36,secundaria,130602,empleado/a calificado/a / funcionario/a,1
+100001161,Mujer,,18,secundaria,98992,empleado/a calificado/a / funcionario/a,1
+100001162,Mujer,soltero/a,35,secundaria,181926,,2
+100001163,Mujer,soltero/a,38,secundaria,152864,empleado/a calificado/a / funcionario/a,2
+100001164,Mujer,soltero/a,39,secundaria,135837,,2
+100001165,Mujer,,24,secundaria,121757,desempleado/a / no calificado/a,2
+100001166,Mujer,soltero/a,41,secundaria,182274,empleado/a calificado/a / funcionario/a,1
+100001167,Mujer,soltero/a,36,secundaria,149040,,2
+100001168,Mujer,soltero/a,37,secundaria,154196,,2
+100001169,Mujer,,45,universidad,135332,empleado/a calificado/a / funcionario/a,1
+100001170,Mujer,soltero/a,41,secundaria,134200,,2
+100001171,Mujer,soltero/a,36,secundaria,177171,,2
+100001172,Mujer,soltero/a,38,secundaria,115964,desempleado/a / no calificado/a,2
+100001173,Mujer,soltero/a,38,secundaria,136871,desempleado/a / no calificado/a,1
+100001174,Mujer,,53,universidad,159559,,2
+100001175,Mujer,soltero/a,35,secundaria,113878,empleado/a calificado/a / funcionario/a,2
+100001176,Mujer,soltero/a,48,secundaria,171203,,2
+100001177,Mujer,soltero/a,36,secundaria,102180,empleado/a calificado/a / funcionario/a,2
+100001178,Mujer,,22,secundaria,116844,,1
+100001179,Mujer,soltero/a,35,secundaria,139844,,2
+100001180,Mujer,soltero/a,42,secundaria,156431,desempleado/a / no calificado/a,1
+100001181,Mujer,soltero/a,39,secundaria,116137,desempleado/a / no calificado/a,1
+100001182,Mujer,soltero/a,31,secundaria,143081,empleado/a calificado/a / funcionario/a,1
+100001183,Mujer,soltero/a,33,secundaria,155870,,2
+100001184,Mujer,,31,secundaria,106924,desempleado/a / no calificado/a,1
+100001185,Mujer,soltero/a,42,secundaria,102133,empleado/a calificado/a / funcionario/a,1
+100001186,Mujer,soltero/a,61,universidad,145227,desempleado/a / no calificado/a,1
+100001187,Mujer,soltero/a,38,secundaria,159500,,2
+100001188,Mujer,soltero/a,33,secundaria,98498,desempleado/a / no calificado/a,1
+100001189,Mujer,soltero/a,48,secundaria,159714,empleado/a calificado/a / funcionario/a,2
+100001190,Mujer,soltero/a,31,secundaria,121852,desempleado/a / no calificado/a,1
+100001191,Mujer,soltero/a,52,secundaria,141271,,2
+100001192,Mujer,,27,secundaria,123213,empleado/a calificado/a / funcionario/a,2
+100001193,Mujer,soltero/a,40,secundaria,143723,,1
+100001194,Mujer,soltero/a,34,secundaria,112538,desempleado/a / no calificado/a,1
+100001195,Mujer,,26,secundaria,97932,,2
+100001196,Mujer,soltero/a,30,secundaria,154003,desempleado/a / no calificado/a,1
+100001197,Mujer,soltero/a,53,secundaria,177179,empleado/a calificado/a / funcionario/a,1
+100001198,Mujer,soltero/a,45,secundaria,128052,empleado/a calificado/a / funcionario/a,2
+100001199,Mujer,soltero/a,32,secundaria,114617,,1
+100001200,Mujer,soltero/a,35,secundaria,182822,,2
+100001201,Mujer,,26,secundaria,177215,empleado/a calificado/a / funcionario/a,2
+100001202,Mujer,soltero/a,30,secundaria,110929,empleado/a calificado/a / funcionario/a,1
+100001203,Mujer,soltero/a,37,secundaria,111821,empleado/a calificado/a / funcionario/a,1
+100001204,Mujer,soltero/a,32,secundaria,97306,,1
+100001205,Mujer,,40,secundaria,157231,empleado/a calificado/a / funcionario/a,1
+100001206,Mujer,soltero/a,44,secundaria,126906,desempleado/a / no calificado/a,2
+100001207,Mujer,soltero/a,43,secundaria,133243,empleado/a calificado/a / funcionario/a,2
+100001208,Mujer,soltero/a,51,secundaria,112250,empleado/a calificado/a / funcionario/a,1
+100001209,Mujer,soltero/a,37,secundaria,104349,desempleado/a / no calificado/a,1
+100001210,Mujer,soltero/a,33,secundaria,151421,empleado/a calificado/a / funcionario/a,2
+100001211,Mujer,,32,secundaria,178081,,1
+100001212,Mujer,soltero/a,35,secundaria,110181,desempleado/a / no calificado/a,2
+100001213,Mujer,,30,secundaria,113012,empleado/a calificado/a / funcionario/a,1
+100001214,Mujer,,35,secundaria,154585,,2
+100001215,Mujer,soltero/a,40,secundaria,144704,,1
+100001216,Mujer,soltero/a,37,secundaria,141632,,2
+100001217,Mujer,soltero/a,37,secundaria,105055,empleado/a calificado/a / funcionario/a,2
+100001218,Mujer,soltero/a,37,secundaria,124597,empleado/a calificado/a / funcionario/a,2
+100001219,Mujer,soltero/a,53,secundaria,160164,,1
+100001220,Mujer,soltero/a,34,secundaria,151754,,1
+100001221,Mujer,soltero/a,51,secundaria,155551,empleado/a calificado/a / funcionario/a,1
+100001222,Mujer,,26,secundaria,94986,empleado/a calificado/a / funcionario/a,2
+100001223,Mujer,soltero/a,34,secundaria,175800,desempleado/a / no calificado/a,1
+100001224,Mujer,soltero/a,51,secundaria,126246,,1
+100001225,Mujer,soltero/a,33,secundaria,116261,empleado/a calificado/a / funcionario/a,2
+100001226,Mujer,,32,secundaria,117796,desempleado/a / no calificado/a,2
+100001227,Mujer,soltero/a,39,secundaria,115363,empleado/a calificado/a / funcionario/a,1
+100001228,Mujer,soltero/a,53,secundaria,169076,empleado/a calificado/a / funcionario/a,1
+100001229,Mujer,soltero/a,34,secundaria,97474,,2
+100001230,Mujer,soltero/a,37,secundaria,140341,empleado/a calificado/a / funcionario/a,2
+100001231,Mujer,,28,secundaria,114503,empleado/a calificado/a / funcionario/a,1
+100001232,Mujer,,25,secundaria,102937,empleado/a calificado/a / funcionario/a,2
+100001233,Mujer,soltero/a,36,secundaria,151781,,2
+100001234,Mujer,,36,secundaria,123133,empleado/a calificado/a / funcionario/a,2
+100001235,Mujer,soltero/a,35,secundaria,118879,empleado/a calificado/a / funcionario/a,2
+100001236,Mujer,,21,secundaria,158683,empleado/a calificado/a / funcionario/a,1
+100001237,Mujer,,29,secundaria,107514,empleado/a calificado/a / funcionario/a,2
+100001238,Mujer,soltero/a,60,universidad,193879,empleado/a calificado/a / funcionario/a,1
+100001239,Mujer,soltero/a,45,secundaria,135043,empleado/a calificado/a / funcionario/a,1
+100001240,Mujer,,56,universidad,108559,desempleado/a / no calificado/a,1
+100001241,Mujer,,30,secundaria,121038,empleado/a calificado/a / funcionario/a,2
+100001242,Mujer,soltero/a,52,secundaria,151947,,2
+100001243,Mujer,,26,secundaria,118820,empleado/a calificado/a / funcionario/a,1
+100001244,Mujer,soltero/a,43,secundaria,121517,empleado/a calificado/a / funcionario/a,1
+100001245,Mujer,soltero/a,34,secundaria,113572,empleado/a calificado/a / funcionario/a,1
+100001246,Mujer,,22,secundaria,131170,empleado/a calificado/a / funcionario/a,2
+100001247,Mujer,soltero/a,42,secundaria,92430,desempleado/a / no calificado/a,1
+100001248,Mujer,soltero/a,38,secundaria,124554,desempleado/a / no calificado/a,1
+100001249,Mujer,,29,secundaria,115988,empleado/a calificado/a / funcionario/a,2
+100001250,Mujer,soltero/a,44,secundaria,107301,empleado/a calificado/a / funcionario/a,2
+100001251,Mujer,,29,secundaria,103767,,1
+100001252,Mujer,soltero/a,44,secundaria,141493,empleado/a calificado/a / funcionario/a,2
+100001253,Mujer,soltero/a,38,secundaria,154339,empleado/a calificado/a / funcionario/a,2
+100001254,Mujer,,26,secundaria,112369,desempleado/a / no calificado/a,1
+100001255,Mujer,soltero/a,53,secundaria,158193,empleado/a calificado/a / funcionario/a,1
+100001256,Mujer,soltero/a,43,secundaria,143734,empleado/a calificado/a / funcionario/a,1
+100001257,Mujer,soltero/a,33,secundaria,121890,empleado/a calificado/a / funcionario/a,1
+100001258,Mujer,soltero/a,52,secundaria,127609,desempleado/a / no calificado/a,1
+100001259,Mujer,,26,secundaria,94650,desempleado/a / no calificado/a,2
+100001260,Mujer,soltero/a,38,secundaria,175504,,1
+100001261,Mujer,soltero/a,47,secundaria,165495,empleado/a calificado/a / funcionario/a,2
+100001262,Mujer,,26,secundaria,120389,empleado/a calificado/a / funcionario/a,1
+100001263,Mujer,,36,secundaria,165340,empleado/a calificado/a / funcionario/a,1
+100001264,Mujer,soltero/a,36,secundaria,119804,empleado/a calificado/a / funcionario/a,1
+100001265,Mujer,soltero/a,57,universidad,154344,,1
+100001266,Mujer,,31,secundaria,106266,,2
+100001267,Mujer,soltero/a,45,secundaria,136129,empleado/a calificado/a / funcionario/a,1
+100001268,Mujer,soltero/a,40,secundaria,151914,,1
+100001269,Mujer,,21,secundaria,121473,empleado/a calificado/a / funcionario/a,1
+100001270,Mujer,soltero/a,46,secundaria,127147,empleado/a calificado/a / funcionario/a,2
+100001271,Mujer,soltero/a,35,secundaria,125387,empleado/a calificado/a / funcionario/a,2
+100001272,Mujer,,31,secundaria,139490,desempleado/a / no calificado/a,2
+100001273,Mujer,soltero/a,51,secundaria,124990,empleado/a calificado/a / funcionario/a,2
+100001274,Mujer,,21,secundaria,101471,,1
+100001275,Mujer,soltero/a,48,secundaria,155708,empleado/a calificado/a / funcionario/a,1
+100001276,Mujer,soltero/a,48,secundaria,142345,empleado/a calificado/a / funcionario/a,2
+100001277,Mujer,soltero/a,68,universidad,148675,desempleado/a / no calificado/a,1
+100001278,Mujer,,45,universidad,116484,empleado/a calificado/a / funcionario/a,2
+100001279,Mujer,soltero/a,35,secundaria,150237,,2
+100001280,Mujer,,22,secundaria,100273,empleado/a calificado/a / funcionario/a,2
+100001281,Mujer,soltero/a,44,secundaria,122292,desempleado/a / no calificado/a,1
+100001282,Mujer,soltero/a,52,secundaria,159216,empleado/a calificado/a / funcionario/a,1
+100001283,Mujer,soltero/a,48,secundaria,130082,empleado/a calificado/a / funcionario/a,2
+100001284,Mujer,soltero/a,33,secundaria,139547,empleado/a calificado/a / funcionario/a,2
+100001285,Mujer,,35,secundaria,122895,empleado/a calificado/a / funcionario/a,1
+100001286,Mujer,,64,universidad,154549,empleado/a calificado/a / funcionario/a,1
+100001287,Mujer,soltero/a,58,secundaria,149315,desempleado/a / no calificado/a,2
+100001288,Mujer,,24,secundaria,118101,desempleado/a / no calificado/a,2
+100001289,Mujer,soltero/a,40,secundaria,115831,desempleado/a / no calificado/a,2
+100001290,Mujer,soltero/a,49,secundaria,118571,,2
+100001291,Mujer,soltero/a,31,secundaria,138906,empleado/a calificado/a / funcionario/a,2
+100001292,Mujer,soltero/a,46,secundaria,98520,empleado/a calificado/a / funcionario/a,2
+100001293,Mujer,soltero/a,46,secundaria,106576,empleado/a calificado/a / funcionario/a,1
+100001294,Mujer,soltero/a,49,secundaria,121592,empleado/a calificado/a / funcionario/a,1
+100001295,Mujer,soltero/a,29,secundaria,135605,desempleado/a / no calificado/a,1
+100001296,Mujer,soltero/a,37,secundaria,114552,empleado/a calificado/a / funcionario/a,2
+100001297,Mujer,soltero/a,33,secundaria,151339,,1
+100001298,Mujer,soltero/a,71,universidad,170387,empleado/a calificado/a / funcionario/a,2
+100001299,Mujer,soltero/a,35,secundaria,118288,empleado/a calificado/a / funcionario/a,2
+100001300,Mujer,soltero/a,40,secundaria,109992,empleado/a calificado/a / funcionario/a,2
+100001301,Hombre,soltero/a,27,secundaria,90654,desempleado/a / no calificado/a,0
+100001302,Hombre,soltero/a,61,universidad,113290,desempleado/a / no calificado/a,0
+100001303,Hombre,,29,secundaria,100093,empleado/a calificado/a / funcionario/a,1
+100001304,Hombre,soltero/a,33,secundaria,109489,empleado/a calificado/a / funcionario/a,0
+100001305,Hombre,soltero/a,56,universidad,139427,desempleado/a / no calificado/a,0
+100001306,Hombre,,27,secundaria,123411,empleado/a calificado/a / funcionario/a,1
+100001307,Hombre,,22,secundaria,137925,empleado/a calificado/a / funcionario/a,0
+100001308,Hombre,,19,secundaria,99119,empleado/a calificado/a / funcionario/a,0
+100001309,Hombre,,28,secundaria,91084,empleado/a calificado/a / funcionario/a,1
+100001310,Hombre,,24,secundaria,110137,empleado/a calificado/a / funcionario/a,1
+100001311,Hombre,,27,secundaria,67041,desempleado/a / no calificado/a,0
+100001312,Hombre,,30,secundaria,127299,empleado/a calificado/a / funcionario/a,1
+100001313,Hombre,soltero/a,26,secundaria,84555,desempleado/a / no calificado/a,0
+100001314,Hombre,,26,secundaria,123895,empleado/a calificado/a / funcionario/a,0
+100001315,Hombre,,23,secundaria,94324,empleado/a calificado/a / funcionario/a,1
+100001316,Hombre,,28,secundaria,96062,empleado/a calificado/a / funcionario/a,0
+100001317,Hombre,,67,,144843,empleado/a calificado/a / funcionario/a,0
+100001318,Hombre,,27,secundaria,107485,empleado/a calificado/a / funcionario/a,1
+100001319,Hombre,,32,secundaria,98573,empleado/a calificado/a / funcionario/a,0
+100001320,Hombre,soltero/a,24,secundaria,107462,desempleado/a / no calificado/a,0
+100001321,Hombre,,28,secundaria,115809,empleado/a calificado/a / funcionario/a,1
+100001322,Hombre,soltero/a,48,universidad,118749,desempleado/a / no calificado/a,0
+100001323,Hombre,,32,secundaria,139112,empleado/a calificado/a / funcionario/a,1
+100001324,Hombre,,25,secundaria,94075,empleado/a calificado/a / funcionario/a,0
+100001325,Hombre,,57,universidad,62002,desempleado/a / no calificado/a,0
+100001326,Hombre,,28,secundaria,127262,empleado/a calificado/a / funcionario/a,0
+100001327,Hombre,,24,secundaria,122846,empleado/a calificado/a / funcionario/a,1
+100001328,Hombre,,25,secundaria,61907,desempleado/a / no calificado/a,0
+100001329,Hombre,soltero/a,31,secundaria,89287,desempleado/a / no calificado/a,0
+100001330,Hombre,soltero/a,33,secundaria,103696,empleado/a calificado/a / funcionario/a,1
+100001331,Hombre,,50,universidad,147603,empleado/a calificado/a / funcionario/a,0
+100001332,Hombre,,58,universidad,139229,desempleado/a / no calificado/a,1
+100001333,Hombre,,27,secundaria,107932,desempleado/a / no calificado/a,0
+100001334,Hombre,,48,universidad,116235,desempleado/a / no calificado/a,0
+100001335,Hombre,,22,secundaria,85974,desempleado/a / no calificado/a,0
+100001336,Hombre,,40,secundaria,124001,desempleado/a / no calificado/a,0
+100001337,Hombre,,32,secundaria,121428,empleado/a calificado/a / funcionario/a,0
+100001338,Hombre,soltero/a,25,secundaria,93233,desempleado/a / no calificado/a,0
+100001339,Hombre,,27,secundaria,67965,desempleado/a / no calificado/a,0
+100001340,Hombre,,27,secundaria,88001,desempleado/a / no calificado/a,0
+100001341,Hombre,,23,secundaria,129112,empleado/a calificado/a / funcionario/a,0
+100001342,Hombre,,32,secundaria,109324,empleado/a calificado/a / funcionario/a,1
+100001343,Hombre,,25,secundaria,112785,empleado/a calificado/a / funcionario/a,1
+100001344,Hombre,,46,universidad,136735,desempleado/a / no calificado/a,0
+100001345,Hombre,,21,secundaria,107779,empleado/a calificado/a / funcionario/a,1
+100001346,Hombre,,29,secundaria,103526,empleado/a calificado/a / funcionario/a,0
+100001347,Hombre,,31,secundaria,93171,desempleado/a / no calificado/a,0
+100001348,Hombre,soltero/a,26,secundaria,106559,desempleado/a / no calificado/a,0
+100001349,Hombre,,23,secundaria,112728,empleado/a calificado/a / funcionario/a,1
+100001350,Hombre,soltero/a,38,secundaria,102855,empleado/a calificado/a / funcionario/a,1
+100001351,Hombre,soltero/a,35,secundaria,85381,desempleado/a / no calificado/a,0
+100001352,Hombre,,27,secundaria,100762,empleado/a calificado/a / funcionario/a,1
+100001353,Hombre,,22,secundaria,131445,empleado/a calificado/a / funcionario/a,1
+100001354,Hombre,,52,universidad,123194,empleado/a calificado/a / funcionario/a,0
+100001355,Hombre,,19,secundaria,99519,empleado/a calificado/a / funcionario/a,1
+100001356,Hombre,,23,secundaria,112853,empleado/a calificado/a / funcionario/a,0
+100001357,Hombre,soltero/a,42,secundaria,110509,empleado/a calificado/a / funcionario/a,0
+100001358,Hombre,,27,secundaria,106446,empleado/a calificado/a / funcionario/a,1
+100001359,Hombre,,39,universidad,89665,desempleado/a / no calificado/a,0
+100001360,Hombre,,50,universidad,128233,empleado/a calificado/a / funcionario/a,1
+100001361,Hombre,,36,secundaria,133615,empleado/a calificado/a / funcionario/a,0
+100001362,Hombre,,25,secundaria,115833,empleado/a calificado/a / funcionario/a,1
+100001363,Hombre,,27,secundaria,65560,desempleado/a / no calificado/a,0
+100001364,Hombre,,30,secundaria,118642,empleado/a calificado/a / funcionario/a,0
+100001365,Hombre,soltero/a,22,secundaria,63635,desempleado/a / no calificado/a,0
+100001366,Hombre,,27,secundaria,122649,empleado/a calificado/a / funcionario/a,1
+100001367,Hombre,soltero/a,31,secundaria,143321,,1
+100001368,Hombre,,29,secundaria,99556,empleado/a calificado/a / funcionario/a,0
+100001369,Hombre,soltero/a,34,secundaria,36760,desempleado/a / no calificado/a,0
+100001370,Hombre,soltero/a,33,secundaria,71935,desempleado/a / no calificado/a,0
+100001371,Hombre,,26,secundaria,114977,empleado/a calificado/a / funcionario/a,0
+100001372,Hombre,,36,secundaria,147691,empleado/a calificado/a / funcionario/a,1
+100001373,Hombre,,26,secundaria,54296,desempleado/a / no calificado/a,0
+100001374,Hombre,,39,secundaria,80014,desempleado/a / no calificado/a,0
+100001375,Hombre,,44,universidad,77887,desempleado/a / no calificado/a,0
+100001376,Hombre,,46,universidad,98517,desempleado/a / no calificado/a,0
+100001377,Hombre,,31,secundaria,103012,desempleado/a / no calificado/a,0
+100001378,Hombre,soltero/a,26,secundaria,121377,empleado/a calificado/a / funcionario/a,0
+100001379,Hombre,,22,secundaria,91359,empleado/a calificado/a / funcionario/a,1
+100001380,Hombre,soltero/a,48,universidad,104833,desempleado/a / no calificado/a,0
+100001381,Hombre,,27,secundaria,101209,empleado/a calificado/a / funcionario/a,0
+100001382,Hombre,soltero/a,30,secundaria,58207,desempleado/a / no calificado/a,0
+100001383,Hombre,,27,secundaria,116708,empleado/a calificado/a / funcionario/a,1
+100001384,Hombre,,36,secundaria,107471,empleado/a calificado/a / funcionario/a,1
+100001385,Hombre,,31,secundaria,128495,empleado/a calificado/a / funcionario/a,0
+100001386,Hombre,soltero/a,21,secundaria,124468,empleado/a calificado/a / funcionario/a,0
+100001387,Hombre,,26,secundaria,106922,empleado/a calificado/a / funcionario/a,1
+100001388,Hombre,soltero/a,24,secundaria,104291,empleado/a calificado/a / funcionario/a,0
+100001389,Hombre,,29,secundaria,98204,empleado/a calificado/a / funcionario/a,0
+100001390,Hombre,,32,secundaria,127071,empleado/a calificado/a / funcionario/a,0
+100001391,Hombre,,45,universidad,85115,desempleado/a / no calificado/a,0
+100001392,Hombre,,58,universidad,104013,desempleado/a / no calificado/a,0
+100001393,Hombre,,25,secundaria,89863,empleado/a calificado/a / funcionario/a,0
+100001394,Hombre,,67,,135300,empleado/a calificado/a / funcionario/a,0
+100001395,Hombre,,53,universidad,107861,desempleado/a / no calificado/a,0
+100001396,Hombre,,24,secundaria,123994,empleado/a calificado/a / funcionario/a,0
+100001397,Hombre,soltero/a,20,secundaria,91270,desempleado/a / no calificado/a,0
+100001398,Hombre,,71,,133245,desempleado/a / no calificado/a,0
+100001399,Hombre,,31,secundaria,118594,empleado/a calificado/a / funcionario/a,1
+100001400,Hombre,,27,secundaria,40606,desempleado/a / no calificado/a,0
+100001401,Hombre,,36,secundaria,129304,desempleado/a / no calificado/a,0
+100001402,Hombre,,25,secundaria,113118,empleado/a calificado/a / funcionario/a,0
+100001403,Hombre,soltero/a,41,secundaria,133131,empleado/a calificado/a / funcionario/a,0
+100001404,Hombre,,30,secundaria,106876,empleado/a calificado/a / funcionario/a,1
+100001405,Hombre,,32,secundaria,130870,empleado/a calificado/a / funcionario/a,1
+100001406,Hombre,,29,secundaria,125621,desempleado/a / no calificado/a,0
+100001407,Hombre,soltero/a,27,secundaria,78923,desempleado/a / no calificado/a,0
+100001408,Hombre,,32,secundaria,123983,empleado/a calificado/a / funcionario/a,0
+100001409,Hombre,,25,secundaria,75184,desempleado/a / no calificado/a,0
+100001410,Hombre,soltero/a,24,secundaria,109693,empleado/a calificado/a / funcionario/a,0
+100001411,Hombre,,63,universidad,86273,desempleado/a / no calificado/a,0
+100001412,Hombre,soltero/a,42,universidad,113190,desempleado/a / no calificado/a,0
+100001413,Hombre,,22,secundaria,109274,desempleado/a / no calificado/a,0
+100001414,Hombre,,46,universidad,143489,empleado/a calificado/a / funcionario/a,1
+100001415,Hombre,,24,secundaria,99570,empleado/a calificado/a / funcionario/a,1
+100001416,Hombre,soltero/a,30,secundaria,139468,empleado/a calificado/a / funcionario/a,1
+100001417,Hombre,,44,universidad,108627,desempleado/a / no calificado/a,0
+100001418,Hombre,soltero/a,25,secundaria,106355,empleado/a calificado/a / funcionario/a,0
+100001419,Hombre,,27,secundaria,96952,empleado/a calificado/a / funcionario/a,0
+100001420,Hombre,,27,secundaria,141502,empleado/a calificado/a / funcionario/a,1
+100001421,Hombre,,34,secundaria,110420,empleado/a calificado/a / funcionario/a,1
+100001422,Hombre,,18,secundaria,97741,empleado/a calificado/a / funcionario/a,1
+100001423,Hombre,,25,secundaria,99583,empleado/a calificado/a / funcionario/a,1
+100001424,Hombre,,21,secundaria,63698,desempleado/a / no calificado/a,0
+100001425,Hombre,,26,secundaria,116688,empleado/a calificado/a / funcionario/a,1
+100001426,Hombre,,27,secundaria,131542,,1
+100001427,Hombre,soltero/a,25,secundaria,136055,empleado/a calificado/a / funcionario/a,1
+100001428,Hombre,,30,secundaria,100195,empleado/a calificado/a / funcionario/a,1
+100001429,Hombre,soltero/a,66,,131001,empleado/a calificado/a / funcionario/a,0
+100001430,Hombre,,25,secundaria,104062,empleado/a calificado/a / funcionario/a,1
+100001431,Hombre,,43,universidad,137689,empleado/a calificado/a / funcionario/a,0
+100001432,Hombre,,35,secundaria,137705,empleado/a calificado/a / funcionario/a,1
+100001433,Hombre,soltero/a,70,,69915,desempleado/a / no calificado/a,0
+100001434,Hombre,soltero/a,35,secundaria,68731,desempleado/a / no calificado/a,0
+100001435,Hombre,,26,secundaria,105726,empleado/a calificado/a / funcionario/a,0
+100001436,Hombre,soltero/a,29,secundaria,78078,desempleado/a / no calificado/a,0
+100001437,Hombre,,22,secundaria,110835,desempleado/a / no calificado/a,0
+100001438,Hombre,soltero/a,26,secundaria,115531,empleado/a calificado/a / funcionario/a,1
+100001439,Hombre,,36,secundaria,92723,desempleado/a / no calificado/a,0
+100001440,Hombre,,35,secundaria,107509,empleado/a calificado/a / funcionario/a,1
+100001441,Hombre,,28,secundaria,116763,empleado/a calificado/a / funcionario/a,1
+100001442,Hombre,,24,secundaria,100733,empleado/a calificado/a / funcionario/a,0
+100001443,Hombre,,34,secundaria,92652,desempleado/a / no calificado/a,0
+100001444,Hombre,,25,secundaria,106987,empleado/a calificado/a / funcionario/a,0
+100001445,Hombre,,54,universidad,51882,desempleado/a / no calificado/a,0
+100001446,Hombre,soltero/a,46,universidad,104751,desempleado/a / no calificado/a,0
+100001447,Hombre,,42,secundaria,50947,desempleado/a / no calificado/a,0
+100001448,Hombre,soltero/a,45,universidad,126986,desempleado/a / no calificado/a,0
+100001449,Hombre,soltero/a,48,universidad,110223,desempleado/a / no calificado/a,0
+100001450,Hombre,soltero/a,21,secundaria,100591,desempleado/a / no calificado/a,0
+100001451,Hombre,,31,secundaria,123257,empleado/a calificado/a / funcionario/a,0
+100001452,Hombre,soltero/a,35,secundaria,137736,empleado/a calificado/a / funcionario/a,1
+100001453,Hombre,,36,secundaria,110221,empleado/a calificado/a / funcionario/a,1
+100001454,Hombre,,32,secundaria,99703,desempleado/a / no calificado/a,0
+100001455,Hombre,,26,secundaria,106667,desempleado/a / no calificado/a,0
+100001456,Hombre,,34,secundaria,143319,empleado/a calificado/a / funcionario/a,0
+100001457,Hombre,,65,universidad,135557,empleado/a calificado/a / funcionario/a,1
+100001458,Hombre,,50,universidad,93390,desempleado/a / no calificado/a,0
+100001459,Hombre,,39,secundaria,97577,empleado/a calificado/a / funcionario/a,0
+100001460,Hombre,soltero/a,52,universidad,124196,desempleado/a / no calificado/a,0
+100001461,Hombre,,36,secundaria,81136,desempleado/a / no calificado/a,0
+100001462,Hombre,,29,secundaria,119439,empleado/a calificado/a / funcionario/a,0
+100001463,Hombre,,36,secundaria,145231,empleado/a calificado/a / funcionario/a,1
+100001464,Hombre,,36,secundaria,85623,desempleado/a / no calificado/a,0
+100001465,Hombre,,27,secundaria,145373,empleado/a calificado/a / funcionario/a,1
+100001466,Hombre,,36,secundaria,135896,,1
+100001467,Hombre,,26,secundaria,106470,empleado/a calificado/a / funcionario/a,1
+100001468,Hombre,soltero/a,57,universidad,113334,empleado/a calificado/a / funcionario/a,1
+100001469,Hombre,soltero/a,27,secundaria,100560,desempleado/a / no calificado/a,0
+100001470,Hombre,,58,universidad,108442,desempleado/a / no calificado/a,0
+100001471,Hombre,,27,secundaria,64472,desempleado/a / no calificado/a,0
+100001472,Hombre,,49,universidad,120207,empleado/a calificado/a / funcionario/a,0
+100001473,Hombre,,43,universidad,101680,empleado/a calificado/a / funcionario/a,0
+100001474,Hombre,soltero/a,45,universidad,92342,desempleado/a / no calificado/a,0
+100001475,Hombre,,27,secundaria,98611,desempleado/a / no calificado/a,0
+100001476,Hombre,,34,secundaria,97613,empleado/a calificado/a / funcionario/a,1
+100001477,Hombre,,21,secundaria,82298,desempleado/a / no calificado/a,0
+100001478,Hombre,,54,universidad,125302,empleado/a calificado/a / funcionario/a,1
+100001479,Hombre,,43,universidad,108725,desempleado/a / no calificado/a,0
+100001480,Hombre,soltero/a,25,secundaria,85569,desempleado/a / no calificado/a,0
+100001481,Hombre,soltero/a,57,universidad,110372,desempleado/a / no calificado/a,0
+100001482,Hombre,,26,secundaria,100511,empleado/a calificado/a / funcionario/a,1
+100001483,Hombre,soltero/a,30,secundaria,110455,empleado/a calificado/a / funcionario/a,0
+100001484,Hombre,soltero/a,58,universidad,141993,desempleado/a / no calificado/a,0
+100001485,Hombre,,25,secundaria,121789,empleado/a calificado/a / funcionario/a,1
+100001486,Hombre,,23,secundaria,138967,empleado/a calificado/a / funcionario/a,0
+100001487,Hombre,soltero/a,22,secundaria,105230,empleado/a calificado/a / funcionario/a,0
+100001488,Hombre,,21,secundaria,90656,empleado/a calificado/a / funcionario/a,1
+100001489,Hombre,,20,secundaria,115445,empleado/a calificado/a / funcionario/a,1
+100001490,Hombre,,22,secundaria,59955,desempleado/a / no calificado/a,0
+100001491,Hombre,soltero/a,27,secundaria,126268,empleado/a calificado/a / funcionario/a,1
+100001492,Hombre,soltero/a,24,secundaria,80830,desempleado/a / no calificado/a,0
+100001493,Hombre,,23,secundaria,123625,empleado/a calificado/a / funcionario/a,0
+100001494,Hombre,,26,secundaria,102543,empleado/a calificado/a / funcionario/a,1
+100001495,Hombre,soltero/a,28,secundaria,101948,empleado/a calificado/a / funcionario/a,0
+100001496,Hombre,,64,,142280,empleado/a calificado/a / funcionario/a,0
+100001497,Hombre,,26,secundaria,105434,empleado/a calificado/a / funcionario/a,1
+100001498,Hombre,,31,secundaria,106115,empleado/a calificado/a / funcionario/a,0
+100001499,Hombre,soltero/a,28,secundaria,111057,desempleado/a / no calificado/a,0
+100001500,Hombre,,25,secundaria,117758,empleado/a calificado/a / funcionario/a,1
+100001501,Hombre,soltero/a,49,universidad,118396,desempleado/a / no calificado/a,0
+100001502,Hombre,,33,secundaria,136260,empleado/a calificado/a / funcionario/a,1
+100001503,Hombre,soltero/a,27,secundaria,97192,empleado/a calificado/a / funcionario/a,0
+100001504,Hombre,,59,universidad,62101,desempleado/a / no calificado/a,0
+100001505,Hombre,,28,secundaria,123497,empleado/a calificado/a / funcionario/a,0
+100001506,Hombre,,24,secundaria,120326,empleado/a calificado/a / funcionario/a,1
+100001507,Hombre,,26,secundaria,66645,desempleado/a / no calificado/a,0
+100001508,Hombre,soltero/a,33,secundaria,83429,desempleado/a / no calificado/a,0
+100001509,Hombre,soltero/a,37,secundaria,107539,empleado/a calificado/a / funcionario/a,1
+100001510,Hombre,,46,universidad,153880,empleado/a calificado/a / funcionario/a,0
+100001511,Hombre,,62,universidad,140178,desempleado/a / no calificado/a,1
+100001512,Hombre,soltero/a,26,secundaria,100402,desempleado/a / no calificado/a,0
+100001513,Hombre,,49,universidad,122158,desempleado/a / no calificado/a,0
+100001514,Hombre,,25,secundaria,89331,desempleado/a / no calificado/a,0
+100001515,Hombre,,37,secundaria,125359,desempleado/a / no calificado/a,0
+100001516,Hombre,soltero/a,31,secundaria,124110,empleado/a calificado/a / funcionario/a,0
+100001517,Hombre,soltero/a,25,secundaria,93526,desempleado/a / no calificado/a,0
+100001518,Hombre,,21,secundaria,70170,desempleado/a / no calificado/a,0
+100001519,Hombre,,27,secundaria,82357,desempleado/a / no calificado/a,0
+100001520,Hombre,,29,secundaria,126745,empleado/a calificado/a / funcionario/a,0
+100001521,Hombre,,30,secundaria,103326,empleado/a calificado/a / funcionario/a,1
+100001522,Hombre,,26,secundaria,116048,empleado/a calificado/a / funcionario/a,1
+100001523,Hombre,,40,universidad,137115,desempleado/a / no calificado/a,0
+100001524,Hombre,,23,secundaria,105365,empleado/a calificado/a / funcionario/a,1
+100001525,Hombre,,31,secundaria,95911,empleado/a calificado/a / funcionario/a,0
+100001526,Hombre,,29,secundaria,88669,desempleado/a / no calificado/a,0
+100001527,Hombre,soltero/a,22,secundaria,103776,desempleado/a / no calificado/a,0
+100001528,Hombre,,26,secundaria,108864,empleado/a calificado/a / funcionario/a,1
+100001529,Hombre,soltero/a,39,secundaria,106037,empleado/a calificado/a / funcionario/a,1
+100001530,Hombre,soltero/a,35,secundaria,84851,desempleado/a / no calificado/a,0
+100001531,Hombre,,26,secundaria,95748,empleado/a calificado/a / funcionario/a,1
+100001532,Hombre,,28,secundaria,133616,empleado/a calificado/a / funcionario/a,1
+100001533,Hombre,,56,universidad,132752,empleado/a calificado/a / funcionario/a,0
+100001534,Hombre,,22,secundaria,95712,empleado/a calificado/a / funcionario/a,1
+100001535,Hombre,,26,secundaria,109063,empleado/a calificado/a / funcionario/a,0
+100001536,Hombre,soltero/a,41,secundaria,113521,empleado/a calificado/a / funcionario/a,0
+100001537,Hombre,,29,secundaria,109380,empleado/a calificado/a / funcionario/a,1
+100001538,Hombre,,42,universidad,82558,desempleado/a / no calificado/a,0
+100001539,Hombre,,50,universidad,124777,empleado/a calificado/a / funcionario/a,1
+100001540,Hombre,,33,secundaria,133542,empleado/a calificado/a / funcionario/a,0
+100001541,Hombre,,28,secundaria,116492,empleado/a calificado/a / funcionario/a,1
+100001542,Hombre,,27,secundaria,68834,desempleado/a / no calificado/a,0
+100001543,Hombre,,27,secundaria,124023,empleado/a calificado/a / funcionario/a,0
+100001544,Hombre,soltero/a,28,secundaria,63882,desempleado/a / no calificado/a,0
+100001545,Hombre,,24,secundaria,122492,empleado/a calificado/a / funcionario/a,1
+100001546,Hombre,soltero/a,28,secundaria,141453,,1
+100001547,Hombre,,32,secundaria,99327,empleado/a calificado/a / funcionario/a,0
+100001548,Hombre,soltero/a,32,secundaria,45590,desempleado/a / no calificado/a,0
+100001549,Hombre,soltero/a,30,secundaria,71167,desempleado/a / no calificado/a,0
+100001550,Hombre,,29,secundaria,111992,empleado/a calificado/a / funcionario/a,0
+100001551,Hombre,,37,secundaria,145140,empleado/a calificado/a / funcionario/a,1
+100001552,Hombre,,24,secundaria,49672,desempleado/a / no calificado/a,0
+100001553,Hombre,,36,secundaria,75536,desempleado/a / no calificado/a,0
+100001554,Hombre,,40,universidad,86720,desempleado/a / no calificado/a,0
+100001555,Hombre,,51,universidad,97729,desempleado/a / no calificado/a,0
+100001556,Hombre,,33,secundaria,106808,desempleado/a / no calificado/a,0
+100001557,Hombre,soltero/a,31,secundaria,117971,empleado/a calificado/a / funcionario/a,0
+100001558,Hombre,,29,secundaria,97731,empleado/a calificado/a / funcionario/a,1
+100001559,Hombre,soltero/a,48,universidad,109196,desempleado/a / no calificado/a,0
+100001560,Hombre,,25,secundaria,94905,empleado/a calificado/a / funcionario/a,0
+100001561,Hombre,soltero/a,28,secundaria,57480,desempleado/a / no calificado/a,0
+100001562,Hombre,,23,secundaria,109175,empleado/a calificado/a / funcionario/a,1
+100001563,Hombre,,32,secundaria,111174,empleado/a calificado/a / funcionario/a,1
+100001564,Hombre,,34,secundaria,127255,empleado/a calificado/a / funcionario/a,0
+100001565,Hombre,soltero/a,23,secundaria,115499,empleado/a calificado/a / funcionario/a,0
+100001566,Hombre,,25,secundaria,109499,empleado/a calificado/a / funcionario/a,1
+100001567,Hombre,soltero/a,25,secundaria,104696,empleado/a calificado/a / funcionario/a,0
+100001568,Hombre,,27,secundaria,104467,empleado/a calificado/a / funcionario/a,0
+100001569,Hombre,,29,secundaria,120157,empleado/a calificado/a / funcionario/a,0
+100001570,Hombre,,46,universidad,81200,desempleado/a / no calificado/a,0
+100001571,Hombre,,61,universidad,97558,desempleado/a / no calificado/a,0
+100001572,Hombre,,25,secundaria,95914,empleado/a calificado/a / funcionario/a,0
+100001573,Hombre,,67,,128053,empleado/a calificado/a / funcionario/a,0
+100001574,Hombre,,49,universidad,101734,desempleado/a / no calificado/a,0
+100001575,Hombre,,21,secundaria,126009,empleado/a calificado/a / funcionario/a,0
+100001576,Hombre,soltero/a,19,secundaria,91232,desempleado/a / no calificado/a,0
+100001577,Hombre,,67,,128343,desempleado/a / no calificado/a,0
+100001578,Hombre,,31,secundaria,110040,empleado/a calificado/a / funcionario/a,1
+100001579,Hombre,,27,secundaria,38247,desempleado/a / no calificado/a,0
+100001580,Hombre,,37,secundaria,129027,desempleado/a / no calificado/a,0
+100001581,Hombre,,27,secundaria,115026,empleado/a calificado/a / funcionario/a,0
+100001582,Hombre,soltero/a,36,secundaria,130323,empleado/a calificado/a / funcionario/a,0
+100001583,Hombre,,24,secundaria,103181,empleado/a calificado/a / funcionario/a,1
+100001584,Hombre,,31,secundaria,138307,empleado/a calificado/a / funcionario/a,1
+100001585,Hombre,,29,secundaria,122564,desempleado/a / no calificado/a,0
+100001586,Hombre,soltero/a,28,secundaria,82351,desempleado/a / no calificado/a,0
+100001587,Hombre,,34,secundaria,125351,empleado/a calificado/a / funcionario/a,0
+100001588,Hombre,,26,secundaria,82940,desempleado/a / no calificado/a,0
+100001589,Hombre,soltero/a,21,secundaria,108029,empleado/a calificado/a / funcionario/a,0
+100001590,Hombre,,63,universidad,82734,desempleado/a / no calificado/a,0
+100001591,Hombre,soltero/a,38,universidad,116816,desempleado/a / no calificado/a,0
+100001592,Hombre,,20,secundaria,113472,desempleado/a / no calificado/a,0
+100001593,Hombre,,44,universidad,143343,empleado/a calificado/a / funcionario/a,1
+100001594,Hombre,,31,secundaria,104074,empleado/a calificado/a / funcionario/a,1
+100001595,Hombre,soltero/a,33,secundaria,138525,empleado/a calificado/a / funcionario/a,1
+100001596,Hombre,,49,universidad,106960,desempleado/a / no calificado/a,0
+100001597,Hombre,soltero/a,26,secundaria,108323,empleado/a calificado/a / funcionario/a,0
+100001598,Hombre,,28,secundaria,95784,empleado/a calificado/a / funcionario/a,0
+100001599,Hombre,,30,secundaria,140673,empleado/a calificado/a / funcionario/a,1
+100001600,Hombre,,36,secundaria,104235,empleado/a calificado/a / funcionario/a,1
+100001601,Hombre,,27,secundaria,54041,desempleado/a / no calificado/a,0
+100001602,Mujer,soltero/a,23,,107961,desempleado/a / no calificado/a,0
+100001603,Mujer,soltero/a,31,,113757,empleado/a calificado/a / funcionario/a,0
+100001604,Hombre,,27,secundaria,94884,empleado/a calificado/a / funcionario/a,0
+100001605,Hombre,,25,secundaria,126041,empleado/a calificado/a / funcionario/a,0
+100001606,Hombre,,23,secundaria,64952,desempleado/a / no calificado/a,0
+100001607,Mujer,,27,secundaria,66764,desempleado/a / no calificado/a,0
+100001608,Hombre,soltero/a,38,secundaria,67861,desempleado/a / no calificado/a,0
+100001609,Mujer,soltero/a,44,secundaria,113516,desempleado/a / no calificado/a,0
+100001610,Hombre,,42,secundaria,46109,desempleado/a / no calificado/a,0
+100001611,Hombre,,25,secundaria,103651,desempleado/a / no calificado/a,0
+100001612,Mujer,,40,secundaria,75043,desempleado/a / no calificado/a,0
+100001613,Hombre,,24,secundaria,116473,desempleado/a / no calificado/a,0
+100001614,Hombre,soltero/a,39,secundaria,96614,desempleado/a / no calificado/a,0
+100001615,Mujer,soltero/a,24,,66447,desempleado/a / no calificado/a,0
+100001616,Hombre,soltero/a,50,secundaria,119068,empleado/a calificado/a / funcionario/a,0
+100001617,Hombre,,28,secundaria,122973,desempleado/a / no calificado/a,0
+100001618,Hombre,,36,secundaria,81609,desempleado/a / no calificado/a,0
+100001619,Mujer,soltero/a,36,secundaria,105519,empleado/a calificado/a / funcionario/a,0
+100001620,Hombre,,40,secundaria,86649,desempleado/a / no calificado/a,0
+100001621,Hombre,soltero/a,31,,76384,desempleado/a / no calificado/a,0
+100001622,Mujer,,27,secundaria,67136,desempleado/a / no calificado/a,0
+100001623,Hombre,,35,secundaria,93155,desempleado/a / no calificado/a,0
+100001624,Mujer,soltero/a,51,secundaria,124183,desempleado/a / no calificado/a,0
+100001625,Hombre,soltero/a,26,,64860,desempleado/a / no calificado/a,0
+100001626,Mujer,soltero/a,33,secundaria,87232,desempleado/a / no calificado/a,0
+100001627,Hombre,,27,secundaria,92304,desempleado/a / no calificado/a,0
+100001628,Mujer,soltero/a,38,secundaria,84254,desempleado/a / no calificado/a,0
+100001629,Hombre,soltero/a,30,,106696,empleado/a calificado/a / funcionario/a,0
+100001630,Mujer,soltero/a,28,,113212,empleado/a calificado/a / funcionario/a,0
+100001631,Mujer,soltero/a,23,,71076,desempleado/a / no calificado/a,0
+100001632,Hombre,,23,secundaria,114270,desempleado/a / no calificado/a,0
+100001633,Hombre,,26,secundaria,125538,empleado/a calificado/a / funcionario/a,0
+100001634,Hombre,,21,secundaria,92442,desempleado/a / no calificado/a,0
+100001635,Hombre,soltero/a,36,secundaria,75297,desempleado/a / no calificado/a,0
+100001636,Hombre,,24,secundaria,65707,desempleado/a / no calificado/a,0
+100001637,Mujer,soltero/a,41,secundaria,120387,empleado/a calificado/a / funcionario/a,0
+100001638,Mujer,soltero/a,42,secundaria,120946,empleado/a calificado/a / funcionario/a,0
+100001639,Mujer,soltero/a,27,,73265,desempleado/a / no calificado/a,0
+100001640,Mujer,,40,secundaria,77481,desempleado/a / no calificado/a,0
+100001641,Hombre,,34,secundaria,91282,desempleado/a / no calificado/a,0
+100001642,Mujer,soltero/a,40,secundaria,104405,desempleado/a / no calificado/a,0
+100001643,Mujer,soltero/a,33,secundaria,99646,empleado/a calificado/a / funcionario/a,0
+100001644,Hombre,soltero/a,49,secundaria,97791,desempleado/a / no calificado/a,0
+100001645,Mujer,soltero/a,28,,81878,desempleado/a / no calificado/a,0
+100001646,Hombre,,26,secundaria,107908,empleado/a calificado/a / funcionario/a,0
+100001647,Hombre,soltero/a,40,secundaria,98608,desempleado/a / no calificado/a,0
+100001648,Mujer,soltero/a,47,secundaria,95228,desempleado/a / no calificado/a,0
+100001649,Hombre,,41,secundaria,128163,empleado/a calificado/a / funcionario/a,0
+100001650,Hombre,,29,secundaria,94325,desempleado/a / no calificado/a,0
+100001651,Hombre,,37,secundaria,90815,desempleado/a / no calificado/a,0
+100001652,Mujer,soltero/a,31,,120719,empleado/a calificado/a / funcionario/a,0
+100001653,Mujer,soltero/a,35,secundaria,110159,empleado/a calificado/a / funcionario/a,0
+100001654,Mujer,soltero/a,35,secundaria,124490,empleado/a calificado/a / funcionario/a,0
+100001655,Hombre,,29,secundaria,75161,desempleado/a / no calificado/a,0
+100001656,Hombre,soltero/a,37,secundaria,127206,empleado/a calificado/a / funcionario/a,0
+100001657,Mujer,soltero/a,37,secundaria,83660,desempleado/a / no calificado/a,0
+100001658,Hombre,,26,secundaria,87400,desempleado/a / no calificado/a,0
+100001659,Hombre,,28,secundaria,78942,desempleado/a / no calificado/a,0
+100001660,Hombre,,23,secundaria,88452,desempleado/a / no calificado/a,0
+100001661,Mujer,soltero/a,38,secundaria,104128,empleado/a calificado/a / funcionario/a,0
+100001662,Hombre,,30,secundaria,100313,empleado/a calificado/a / funcionario/a,0
+100001663,Hombre,soltero/a,45,secundaria,107387,empleado/a calificado/a / funcionario/a,0
+100001664,Mujer,soltero/a,24,,84355,desempleado/a / no calificado/a,0
+100001665,Hombre,soltero/a,35,secundaria,112723,empleado/a calificado/a / funcionario/a,0
+100001666,Hombre,,41,secundaria,115892,empleado/a calificado/a / funcionario/a,0
+100001667,Mujer,,30,secundaria,106597,empleado/a calificado/a / funcionario/a,0
+100001668,Hombre,,30,secundaria,121327,empleado/a calificado/a / funcionario/a,0
+100001669,Hombre,,26,secundaria,92559,desempleado/a / no calificado/a,0
+100001670,Hombre,,25,secundaria,87537,desempleado/a / no calificado/a,0
+100001671,Hombre,,23,secundaria,70569,desempleado/a / no calificado/a,0
+100001672,Hombre,,27,secundaria,85294,desempleado/a / no calificado/a,0
+100001673,Hombre,soltero/a,26,,70905,desempleado/a / no calificado/a,0
+100001674,Mujer,soltero/a,25,,103716,desempleado/a / no calificado/a,0
+100001675,Mujer,,27,secundaria,94947,empleado/a calificado/a / funcionario/a,0
+100001676,Hombre,soltero/a,42,secundaria,80116,desempleado/a / no calificado/a,0
+100001677,Mujer,soltero/a,35,secundaria,86492,desempleado/a / no calificado/a,0
+100001678,Hombre,,25,secundaria,88672,desempleado/a / no calificado/a,0
+100001679,Hombre,,26,secundaria,82984,desempleado/a / no calificado/a,0
+100001680,Mujer,soltero/a,38,secundaria,128100,empleado/a calificado/a / funcionario/a,0
+100001681,Hombre,soltero/a,28,,72869,desempleado/a / no calificado/a,0
+100001682,Mujer,,33,secundaria,112227,empleado/a calificado/a / funcionario/a,0
+100001683,Hombre,soltero/a,40,secundaria,94674,desempleado/a / no calificado/a,0
+100001684,Hombre,,23,secundaria,101003,empleado/a calificado/a / funcionario/a,0
+100001685,Hombre,soltero/a,25,,112924,empleado/a calificado/a / funcionario/a,0
+100001686,Hombre,soltero/a,28,,108645,desempleado/a / no calificado/a,0
+100001687,Mujer,soltero/a,41,secundaria,69415,desempleado/a / no calificado/a,0
+100001688,Hombre,soltero/a,50,secundaria,112204,desempleado/a / no calificado/a,0
+100001689,Hombre,,23,secundaria,109700,empleado/a calificado/a / funcionario/a,0
+100001690,Hombre,,26,secundaria,104484,empleado/a calificado/a / funcionario/a,0
+100001691,Hombre,,22,secundaria,61239,desempleado/a / no calificado/a,0
+100001692,Mujer,soltero/a,37,secundaria,119602,desempleado/a / no calificado/a,0
+100001693,Hombre,soltero/a,38,secundaria,81014,desempleado/a / no calificado/a,0
+100001694,Hombre,,22,secundaria,68165,desempleado/a / no calificado/a,0
+100001695,Hombre,soltero/a,30,,88652,desempleado/a / no calificado/a,0
+100001696,Mujer,soltero/a,38,secundaria,75705,desempleado/a / no calificado/a,0
+100001697,Hombre,,36,secundaria,104189,empleado/a calificado/a / funcionario/a,0
+100001698,Mujer,soltero/a,41,secundaria,71603,desempleado/a / no calificado/a,0
+100001699,Hombre,,29,secundaria,121914,empleado/a calificado/a / funcionario/a,0
+100001700,Hombre,,31,secundaria,106637,empleado/a calificado/a / funcionario/a,0
+100001701,Hombre,soltero/a,31,,99800,empleado/a calificado/a / funcionario/a,0
+100001702,Hombre,soltero/a,21,,67629,desempleado/a / no calificado/a,0
+100001703,Mujer,soltero/a,32,,120354,empleado/a calificado/a / funcionario/a,0
+100001704,Hombre,,35,secundaria,122110,empleado/a calificado/a / funcionario/a,0
+100001705,Mujer,soltero/a,29,,89170,desempleado/a / no calificado/a,0
+100001706,Hombre,soltero/a,34,secundaria,109195,empleado/a calificado/a / funcionario/a,0
+100001707,Hombre,soltero/a,38,secundaria,92392,desempleado/a / no calificado/a,0
+100001708,Hombre,,33,secundaria,43805,desempleado/a / no calificado/a,0
+100001709,Hombre,,28,secundaria,68389,desempleado/a / no calificado/a,0
+100001710,Hombre,,28,secundaria,112521,empleado/a calificado/a / funcionario/a,0
+100001711,Mujer,soltero/a,21,,59255,desempleado/a / no calificado/a,0
+100001712,Hombre,,29,secundaria,98612,desempleado/a / no calificado/a,0
+100001713,Hombre,,26,secundaria,70649,desempleado/a / no calificado/a,0
+100001714,Hombre,soltero/a,40,secundaria,95228,desempleado/a / no calificado/a,0
+100001715,Hombre,soltero/a,25,,46865,desempleado/a / no calificado/a,0
+100001716,Mujer,,20,secundaria,101688,empleado/a calificado/a / funcionario/a,0
+100001717,Hombre,,23,secundaria,62618,desempleado/a / no calificado/a,0
+100001718,Hombre,soltero/a,27,,102531,empleado/a calificado/a / funcionario/a,0
+100001719,Hombre,soltero/a,36,secundaria,100737,empleado/a calificado/a / funcionario/a,0
+100001720,Hombre,,25,secundaria,107321,empleado/a calificado/a / funcionario/a,0
+100001721,Hombre,,25,secundaria,112879,desempleado/a / no calificado/a,0
+100001722,Hombre,,34,secundaria,125372,desempleado/a / no calificado/a,0
+100001723,Hombre,soltero/a,24,,69419,desempleado/a / no calificado/a,0
+100001724,Hombre,soltero/a,36,secundaria,124759,empleado/a calificado/a / funcionario/a,0
+100001725,Hombre,soltero/a,40,secundaria,79076,desempleado/a / no calificado/a,0
+100001726,Mujer,soltero/a,39,secundaria,84779,desempleado/a / no calificado/a,0
+100001727,Hombre,soltero/a,42,secundaria,77393,desempleado/a / no calificado/a,0
+100001728,Mujer,soltero/a,35,secundaria,113187,desempleado/a / no calificado/a,0
+100001729,Hombre,,27,secundaria,99100,empleado/a calificado/a / funcionario/a,0
+100001730,Mujer,soltero/a,27,,64954,desempleado/a / no calificado/a,0
+100001731,Hombre,,23,secundaria,103244,empleado/a calificado/a / funcionario/a,0
+100001732,Hombre,,32,secundaria,124975,empleado/a calificado/a / funcionario/a,0
+100001733,Mujer,,28,secundaria,133582,empleado/a calificado/a / funcionario/a,0
+100001734,Mujer,soltero/a,22,,103519,empleado/a calificado/a / funcionario/a,0
+100001735,Mujer,soltero/a,31,,117813,empleado/a calificado/a / funcionario/a,0
+100001736,Hombre,,22,secundaria,119902,empleado/a calificado/a / funcionario/a,0
+100001737,Mujer,soltero/a,23,,70783,desempleado/a / no calificado/a,0
+100001738,Hombre,,35,secundaria,125470,desempleado/a / no calificado/a,0
+100001739,Hombre,,26,secundaria,109782,desempleado/a / no calificado/a,0
+100001740,Hombre,,28,secundaria,78322,desempleado/a / no calificado/a,0
+100001741,Mujer,soltero/a,54,secundaria,125517,empleado/a calificado/a / funcionario/a,0
+100001742,Hombre,soltero/a,49,secundaria,102463,desempleado/a / no calificado/a,0
+100001743,Hombre,soltero/a,38,secundaria,89309,desempleado/a / no calificado/a,0
+100001744,Hombre,soltero/a,47,secundaria,110287,empleado/a calificado/a / funcionario/a,0
+100001745,Hombre,soltero/a,49,secundaria,122391,desempleado/a / no calificado/a,0
+100001746,Hombre,,30,secundaria,116399,empleado/a calificado/a / funcionario/a,0
+100001747,Hombre,soltero/a,32,,81907,desempleado/a / no calificado/a,0
+100001748,Hombre,,24,secundaria,97909,desempleado/a / no calificado/a,0
+100001749,Hombre,soltero/a,25,,68051,desempleado/a / no calificado/a,0
+100001750,Mujer,soltero/a,33,secundaria,82414,desempleado/a / no calificado/a,0
+100001751,Hombre,,34,secundaria,123089,empleado/a calificado/a / funcionario/a,0
+100001752,Hombre,,24,secundaria,66537,desempleado/a / no calificado/a,0
+100001753,Hombre,soltero/a,36,secundaria,127926,desempleado/a / no calificado/a,0
+100001754,Hombre,soltero/a,41,secundaria,78963,desempleado/a / no calificado/a,0
+100001755,Mujer,,33,secundaria,108694,empleado/a calificado/a / funcionario/a,0
+100001756,Hombre,,26,secundaria,100892,empleado/a calificado/a / funcionario/a,0
+100001757,Hombre,soltero/a,36,secundaria,119560,empleado/a calificado/a / funcionario/a,0
+100001758,Hombre,soltero/a,35,secundaria,116176,desempleado/a / no calificado/a,0
+100001759,Mujer,soltero/a,29,,111854,empleado/a calificado/a / funcionario/a,0
+100001760,Hombre,,26,secundaria,69831,desempleado/a / no calificado/a,0
+100001761,Mujer,soltero/a,31,,69375,desempleado/a / no calificado/a,0
+100001762,Mujer,,26,secundaria,71310,desempleado/a / no calificado/a,0
+100001763,Mujer,soltero/a,47,secundaria,73913,desempleado/a / no calificado/a,0
+100001764,Mujer,,20,secundaria,95492,empleado/a calificado/a / funcionario/a,0
+100001765,Mujer,soltero/a,45,secundaria,109329,desempleado/a / no calificado/a,0
+100001766,Mujer,soltero/a,36,secundaria,116027,empleado/a calificado/a / funcionario/a,0
+100001767,Mujer,,31,secundaria,81987,desempleado/a / no calificado/a,0
+100001768,Hombre,soltero/a,41,secundaria,83481,desempleado/a / no calificado/a,0
+100001769,Hombre,soltero/a,31,,72361,desempleado/a / no calificado/a,0
+100001770,Hombre,,27,secundaria,106625,desempleado/a / no calificado/a,0
+100001771,Hombre,,32,secundaria,123707,empleado/a calificado/a / funcionario/a,0
+100001772,Hombre,soltero/a,43,secundaria,79353,desempleado/a / no calificado/a,0
+100001773,Hombre,soltero/a,32,,68347,desempleado/a / no calificado/a,0
+100001774,Hombre,,29,secundaria,115832,empleado/a calificado/a / funcionario/a,0
+100001775,Mujer,soltero/a,37,secundaria,89946,desempleado/a / no calificado/a,0
+100001776,Hombre,soltero/a,35,secundaria,86319,desempleado/a / no calificado/a,0
+100001777,Hombre,,23,secundaria,70963,desempleado/a / no calificado/a,0
+100001778,Mujer,soltero/a,40,secundaria,106120,empleado/a calificado/a / funcionario/a,0
+100001779,Hombre,,26,secundaria,97856,empleado/a calificado/a / funcionario/a,0
+100001780,Mujer,soltero/a,28,,61824,desempleado/a / no calificado/a,0
+100001781,Hombre,,40,secundaria,103907,empleado/a calificado/a / funcionario/a,0
+100001782,Hombre,,26,secundaria,99953,desempleado/a / no calificado/a,0
+100001783,Hombre,,23,secundaria,113413,empleado/a calificado/a / funcionario/a,0
+100001784,Mujer,soltero/a,26,,107091,desempleado/a / no calificado/a,0
+100001785,Mujer,soltero/a,26,,124783,empleado/a calificado/a / funcionario/a,0
+100001786,Hombre,soltero/a,49,secundaria,92281,desempleado/a / no calificado/a,0
+100001787,Hombre,,26,secundaria,96219,empleado/a calificado/a / funcionario/a,0
+100001788,Hombre,soltero/a,35,secundaria,86221,desempleado/a / no calificado/a,0
+100001789,Hombre,,24,secundaria,80962,desempleado/a / no calificado/a,0
+100001790,Hombre,soltero/a,46,secundaria,78754,desempleado/a / no calificado/a,0
+100001791,Mujer,soltero/a,26,,60026,desempleado/a / no calificado/a,0
+100001792,Mujer,soltero/a,47,secundaria,88157,desempleado/a / no calificado/a,0
+100001793,Mujer,soltero/a,27,,59881,desempleado/a / no calificado/a,0
+100001794,Mujer,,41,secundaria,112818,empleado/a calificado/a / funcionario/a,0
+100001795,Hombre,,29,secundaria,102250,empleado/a calificado/a / funcionario/a,0
+100001796,Hombre,,28,secundaria,38980,desempleado/a / no calificado/a,0
+100001797,Hombre,,33,secundaria,81807,desempleado/a / no calificado/a,0
+100001798,Hombre,soltero/a,50,secundaria,93148,desempleado/a / no calificado/a,0
+100001799,Hombre,,32,secundaria,108032,empleado/a calificado/a / funcionario/a,0
+100001800,Mujer,,31,secundaria,89335,desempleado/a / no calificado/a,0
+100001801,Mujer,soltero/a,52,secundaria,95639,desempleado/a / no calificado/a,0
+100001802,Mujer,soltero/a,53,secundaria,124902,empleado/a calificado/a / funcionario/a,0
+100001803,Hombre,,34,secundaria,87801,desempleado/a / no calificado/a,0
+100001804,Hombre,,22,secundaria,92538,empleado/a calificado/a / funcionario/a,0
+100001805,Mujer,,33,secundaria,83687,desempleado/a / no calificado/a,0
+100001806,Mujer,soltero/a,32,,128310,empleado/a calificado/a / funcionario/a,0
+100001807,Hombre,soltero/a,45,secundaria,104754,desempleado/a / no calificado/a,0
+100001808,Mujer,,25,secundaria,68222,desempleado/a / no calificado/a,0
+100001809,Hombre,,41,secundaria,97006,desempleado/a / no calificado/a,0
+100001810,Hombre,soltero/a,36,secundaria,107372,desempleado/a / no calificado/a,0
+100001811,Hombre,,27,secundaria,110511,empleado/a calificado/a / funcionario/a,0
+100001812,Mujer,soltero/a,40,secundaria,72193,desempleado/a / no calificado/a,0
+100001813,Hombre,soltero/a,37,secundaria,95972,desempleado/a / no calificado/a,0
+100001814,Mujer,soltero/a,35,secundaria,105556,desempleado/a / no calificado/a,0
+100001815,Mujer,soltero/a,34,secundaria,88701,desempleado/a / no calificado/a,0
+100001816,Hombre,soltero/a,28,,117710,empleado/a calificado/a / funcionario/a,0
+100001817,Hombre,soltero/a,44,secundaria,76057,desempleado/a / no calificado/a,0
+100001818,Mujer,,27,secundaria,100392,empleado/a calificado/a / funcionario/a,0
+100001819,Hombre,soltero/a,50,secundaria,113308,empleado/a calificado/a / funcionario/a,0
+100001820,Hombre,,18,secundaria,100924,empleado/a calificado/a / funcionario/a,0
+100001821,Hombre,soltero/a,25,,72188,desempleado/a / no calificado/a,0
+100001822,Hombre,,40,secundaria,70431,desempleado/a / no calificado/a,0
+100001823,Mujer,,28,secundaria,110103,empleado/a calificado/a / funcionario/a,0
+100001824,Hombre,,23,secundaria,60825,desempleado/a / no calificado/a,0
+100001825,Hombre,,35,secundaria,75100,desempleado/a / no calificado/a,0
+100001826,Hombre,,28,secundaria,129327,empleado/a calificado/a / funcionario/a,0
+100001827,Hombre,soltero/a,23,,95541,empleado/a calificado/a / funcionario/a,0
+100001828,Mujer,,34,secundaria,112777,empleado/a calificado/a / funcionario/a,0
+100001829,Hombre,,29,secundaria,51496,desempleado/a / no calificado/a,0
+100001830,Hombre,soltero/a,35,secundaria,102781,empleado/a calificado/a / funcionario/a,0
+100001831,Hombre,,32,secundaria,87494,desempleado/a / no calificado/a,0
+100001832,Hombre,soltero/a,46,secundaria,72728,desempleado/a / no calificado/a,0
+100001833,Hombre,,27,secundaria,114775,empleado/a calificado/a / funcionario/a,0
+100001834,Hombre,,25,secundaria,124359,empleado/a calificado/a / funcionario/a,0
+100001835,Hombre,,27,secundaria,101620,desempleado/a / no calificado/a,0
+100001836,Hombre,,24,secundaria,87964,desempleado/a / no calificado/a,0
+100001837,Hombre,soltero/a,33,,69523,desempleado/a / no calificado/a,0
+100001838,Hombre,,24,secundaria,109486,empleado/a calificado/a / funcionario/a,0
+100001839,Hombre,soltero/a,28,,77206,desempleado/a / no calificado/a,0
+100001840,Hombre,soltero/a,35,secundaria,53608,desempleado/a / no calificado/a,0
+100001841,Hombre,,30,secundaria,118677,empleado/a calificado/a / funcionario/a,0
+100001842,Mujer,soltero/a,43,secundaria,116512,empleado/a calificado/a / funcionario/a,0
+100001843,Mujer,,21,secundaria,114756,desempleado/a / no calificado/a,0
+100001844,Hombre,,24,secundaria,65852,desempleado/a / no calificado/a,0
+100001845,Mujer,soltero/a,34,secundaria,75626,desempleado/a / no calificado/a,0
+100001846,Hombre,,26,secundaria,127455,empleado/a calificado/a / funcionario/a,0
+100001847,Mujer,soltero/a,37,secundaria,107073,empleado/a calificado/a / funcionario/a,0
+100001848,Hombre,,32,secundaria,82196,desempleado/a / no calificado/a,0
+100001849,Hombre,,33,secundaria,106741,desempleado/a / no calificado/a,0
+100001850,Mujer,,28,secundaria,94518,empleado/a calificado/a / funcionario/a,0
+100001851,Hombre,,30,secundaria,114430,empleado/a calificado/a / funcionario/a,0
+100001852,Hombre,,26,secundaria,57165,desempleado/a / no calificado/a,0
+100001853,Hombre,soltero/a,25,,109610,desempleado/a / no calificado/a,0
+100001854,Mujer,soltero/a,33,,113619,empleado/a calificado/a / funcionario/a,0
+100001855,Hombre,,30,secundaria,93854,empleado/a calificado/a / funcionario/a,0
+100001856,Hombre,,26,secundaria,129022,empleado/a calificado/a / funcionario/a,0
+100001857,Mujer,,23,secundaria,66804,desempleado/a / no calificado/a,0
+100001858,Mujer,,25,secundaria,62689,desempleado/a / no calificado/a,0
+100001859,Hombre,soltero/a,40,secundaria,67619,desempleado/a / no calificado/a,0
+100001860,Mujer,soltero/a,46,secundaria,113495,desempleado/a / no calificado/a,0
+100001861,Hombre,,43,secundaria,48632,desempleado/a / no calificado/a,0
+100001862,Hombre,,22,secundaria,107394,desempleado/a / no calificado/a,0
+100001863,Mujer,,39,secundaria,72385,desempleado/a / no calificado/a,0
+100001864,Hombre,,27,secundaria,115934,desempleado/a / no calificado/a,0
+100001865,Mujer,soltero/a,40,secundaria,93183,desempleado/a / no calificado/a,0
+100001866,Mujer,soltero/a,24,,63506,desempleado/a / no calificado/a,0
+100001867,Hombre,soltero/a,52,secundaria,113619,empleado/a calificado/a / funcionario/a,0
+100001868,Hombre,,30,secundaria,121399,desempleado/a / no calificado/a,0
+100001869,Hombre,,34,secundaria,78281,desempleado/a / no calificado/a,0
+100001870,Hombre,soltero/a,38,secundaria,103926,empleado/a calificado/a / funcionario/a,0
+100001871,Mujer,,39,secundaria,89097,desempleado/a / no calificado/a,0
+100001872,Hombre,soltero/a,29,,80852,desempleado/a / no calificado/a,0
+100001873,Mujer,,25,secundaria,65207,desempleado/a / no calificado/a,0
+100001874,Hombre,,35,secundaria,93495,desempleado/a / no calificado/a,0
+100001875,Mujer,soltero/a,53,secundaria,121970,desempleado/a / no calificado/a,0
+100001876,Mujer,soltero/a,26,,62027,desempleado/a / no calificado/a,0
+100001877,Mujer,soltero/a,33,secundaria,88602,desempleado/a / no calificado/a,0
+100001878,Mujer,,29,secundaria,89914,desempleado/a / no calificado/a,0
+100001879,Mujer,soltero/a,39,secundaria,83342,desempleado/a / no calificado/a,0
+100001880,Mujer,soltero/a,29,,103439,empleado/a calificado/a / funcionario/a,0
+100001881,Mujer,soltero/a,26,,115451,empleado/a calificado/a / funcionario/a,0
+100001882,Mujer,soltero/a,24,,68250,desempleado/a / no calificado/a,0
+100001883,Hombre,,21,secundaria,113630,desempleado/a / no calificado/a,0
+100001884,Hombre,,26,secundaria,125880,empleado/a calificado/a / funcionario/a,0
+100001885,Hombre,,20,secundaria,91177,desempleado/a / no calificado/a,0
+100001886,Hombre,soltero/a,35,secundaria,73266,desempleado/a / no calificado/a,0
+100001887,Hombre,,24,secundaria,69021,desempleado/a / no calificado/a,0
+100001888,Hombre,soltero/a,40,secundaria,122593,empleado/a calificado/a / funcionario/a,0
+100001889,Hombre,soltero/a,44,secundaria,122180,empleado/a calificado/a / funcionario/a,0
+100001890,Mujer,soltero/a,29,,75160,desempleado/a / no calificado/a,0
+100001891,Hombre,,39,secundaria,81973,desempleado/a / no calificado/a,0
+100001892,Hombre,,35,secundaria,92194,desempleado/a / no calificado/a,0
+100001893,Mujer,soltero/a,42,secundaria,107380,desempleado/a / no calificado/a,0
+100001894,Hombre,soltero/a,32,secundaria,98023,empleado/a calificado/a / funcionario/a,0
+100001895,Mujer,soltero/a,48,secundaria,94868,desempleado/a / no calificado/a,0
+100001896,Mujer,soltero/a,26,,83442,desempleado/a / no calificado/a,0
+100001897,Hombre,,26,secundaria,109887,empleado/a calificado/a / funcionario/a,0
+100001898,Mujer,soltero/a,42,secundaria,98876,desempleado/a / no calificado/a,0
+100001899,Mujer,soltero/a,48,secundaria,94962,desempleado/a / no calificado/a,0
+100001900,Hombre,,42,secundaria,130740,empleado/a calificado/a / funcionario/a,0
+100001901,Hombre,,27,secundaria,94095,desempleado/a / no calificado/a,0
+100001902,Hombre,,37,secundaria,95071,desempleado/a / no calificado/a,0
+100001903,Mujer,soltero/a,33,,117308,empleado/a calificado/a / funcionario/a,0
+100001904,Mujer,soltero/a,33,secundaria,112093,empleado/a calificado/a / funcionario/a,0
+100001905,Hombre,soltero/a,37,secundaria,123893,empleado/a calificado/a / funcionario/a,0
+100001906,Hombre,,31,secundaria,80189,desempleado/a / no calificado/a,0
+100001907,Mujer,soltero/a,39,secundaria,124089,empleado/a calificado/a / funcionario/a,0
+100001908,Hombre,soltero/a,40,secundaria,82673,desempleado/a / no calificado/a,0
+100001909,Hombre,,28,secundaria,88858,desempleado/a / no calificado/a,0
+100001910,Hombre,,26,secundaria,80540,desempleado/a / no calificado/a,0
+100001911,Hombre,,24,secundaria,84228,desempleado/a / no calificado/a,0
+100001912,Mujer,soltero/a,40,secundaria,103963,empleado/a calificado/a / funcionario/a,0
+100001913,Hombre,,29,secundaria,102397,empleado/a calificado/a / funcionario/a,0
+100001914,Mujer,soltero/a,43,secundaria,111563,empleado/a calificado/a / funcionario/a,0
+100001915,Mujer,soltero/a,23,,88260,desempleado/a / no calificado/a,0
+100001916,Hombre,soltero/a,34,secundaria,114767,empleado/a calificado/a / funcionario/a,0
+100001917,Hombre,,42,secundaria,113275,empleado/a calificado/a / funcionario/a,0
+100001918,Hombre,,33,secundaria,104755,empleado/a calificado/a / funcionario/a,0
+100001919,Hombre,,32,secundaria,120525,empleado/a calificado/a / funcionario/a,0
+100001920,Hombre,,26,secundaria,96082,desempleado/a / no calificado/a,0
+100001921,Hombre,,23,secundaria,87227,desempleado/a / no calificado/a,0
+100001922,Hombre,,26,secundaria,69333,desempleado/a / no calificado/a,0
+100001923,Hombre,,27,secundaria,87777,desempleado/a / no calificado/a,0
+100001924,Mujer,soltero/a,24,,70978,desempleado/a / no calificado/a,0
+100001925,Mujer,soltero/a,27,,104196,desempleado/a / no calificado/a,0
+100001926,Hombre,,26,secundaria,97551,empleado/a calificado/a / funcionario/a,0
+100001927,Hombre,soltero/a,42,secundaria,78979,desempleado/a / no calificado/a,0
+100001928,Hombre,soltero/a,37,secundaria,82500,desempleado/a / no calificado/a,0
+100001929,Hombre,,26,secundaria,86306,desempleado/a / no calificado/a,0
+100001930,Hombre,,24,secundaria,78762,desempleado/a / no calificado/a,0
+100001931,Hombre,soltero/a,39,secundaria,125543,empleado/a calificado/a / funcionario/a,0
+100001932,Mujer,soltero/a,26,,70336,desempleado/a / no calificado/a,0
+100001933,Mujer,,35,secundaria,112975,empleado/a calificado/a / funcionario/a,0
+100001934,Mujer,soltero/a,38,secundaria,96681,desempleado/a / no calificado/a,0
+100001935,Hombre,,24,secundaria,98922,empleado/a calificado/a / funcionario/a,0
+100001936,Hombre,soltero/a,26,,109250,empleado/a calificado/a / funcionario/a,0
+100001937,Mujer,soltero/a,25,,108960,desempleado/a / no calificado/a,0
+100001938,Mujer,soltero/a,40,secundaria,71302,desempleado/a / no calificado/a,0
+100001939,Hombre,soltero/a,48,secundaria,107757,desempleado/a / no calificado/a,0
+100001940,Hombre,,22,secundaria,111600,empleado/a calificado/a / funcionario/a,0
+100001941,Hombre,,25,secundaria,102974,empleado/a calificado/a / funcionario/a,0
+100001942,Mujer,,24,secundaria,63442,desempleado/a / no calificado/a,0
+100001943,Mujer,soltero/a,39,secundaria,118913,desempleado/a / no calificado/a,0
+100001944,Mujer,soltero/a,39,secundaria,80987,desempleado/a / no calificado/a,0
+100001945,Hombre,,21,secundaria,68790,desempleado/a / no calificado/a,0
+100001946,Hombre,soltero/a,27,,86462,desempleado/a / no calificado/a,0
+100001947,Mujer,soltero/a,40,secundaria,76881,desempleado/a / no calificado/a,0
+100001948,Hombre,,37,secundaria,107409,empleado/a calificado/a / funcionario/a,0
+100001949,Hombre,soltero/a,42,secundaria,69114,desempleado/a / no calificado/a,0
+100001950,Hombre,,31,secundaria,119167,empleado/a calificado/a / funcionario/a,0
+100001951,Hombre,,31,secundaria,102018,empleado/a calificado/a / funcionario/a,0
+100001952,Mujer,soltero/a,30,,97680,empleado/a calificado/a / funcionario/a,0
+100001953,Hombre,soltero/a,23,,65062,desempleado/a / no calificado/a,0
+100001954,Mujer,soltero/a,33,,118144,empleado/a calificado/a / funcionario/a,0
+100001955,Hombre,,37,secundaria,124548,empleado/a calificado/a / funcionario/a,0
+100001956,Hombre,soltero/a,29,,85637,desempleado/a / no calificado/a,0
+100001957,Hombre,soltero/a,31,secundaria,113108,empleado/a calificado/a / funcionario/a,0
+100001958,Mujer,soltero/a,39,secundaria,93554,desempleado/a / no calificado/a,0
+100001959,Hombre,,33,secundaria,42516,desempleado/a / no calificado/a,0
+100001960,Mujer,,26,secundaria,72429,desempleado/a / no calificado/a,0
+100001961,Hombre,,27,secundaria,110154,empleado/a calificado/a / funcionario/a,0
+100001962,Hombre,soltero/a,20,,60965,desempleado/a / no calificado/a,0
+100001963,Hombre,,27,secundaria,100618,desempleado/a / no calificado/a,0
+100001964,Hombre,,26,secundaria,71021,desempleado/a / no calificado/a,0
+100001965,Mujer,soltero/a,40,secundaria,94189,desempleado/a / no calificado/a,0
+100001966,Mujer,soltero/a,24,,44742,desempleado/a / no calificado/a,0
+100001967,Hombre,,22,secundaria,103201,empleado/a calificado/a / funcionario/a,0
+100001968,Hombre,,24,secundaria,62335,desempleado/a / no calificado/a,0
+100001969,Hombre,soltero/a,27,,103787,empleado/a calificado/a / funcionario/a,0
+100001970,Mujer,soltero/a,35,secundaria,99401,empleado/a calificado/a / funcionario/a,0
+100001971,Mujer,,27,secundaria,105197,empleado/a calificado/a / funcionario/a,0
+100001972,Hombre,,25,secundaria,115566,desempleado/a / no calificado/a,0
+100001973,Hombre,,34,secundaria,125843,desempleado/a / no calificado/a,0
+100001974,Hombre,soltero/a,24,,67936,desempleado/a / no calificado/a,0
+100001975,Hombre,soltero/a,34,secundaria,120863,empleado/a calificado/a / funcionario/a,0
+100001976,Mujer,soltero/a,42,secundaria,77317,desempleado/a / no calificado/a,0
+100001977,Hombre,soltero/a,38,secundaria,84653,desempleado/a / no calificado/a,0
+100001978,Mujer,soltero/a,42,secundaria,81606,desempleado/a / no calificado/a,0
+100001979,Hombre,soltero/a,35,secundaria,113380,desempleado/a / no calificado/a,0
+100001980,Hombre,,27,secundaria,100644,empleado/a calificado/a / funcionario/a,0
+100001981,Mujer,soltero/a,25,,64037,desempleado/a / no calificado/a,0
+100001982,Hombre,,23,secundaria,101350,empleado/a calificado/a / funcionario/a,0
+100001983,Hombre,,34,secundaria,126334,empleado/a calificado/a / funcionario/a,0
+100001984,Hombre,,28,secundaria,130877,empleado/a calificado/a / funcionario/a,0
+100001985,Mujer,soltero/a,21,,103470,empleado/a calificado/a / funcionario/a,0
+100001986,Hombre,soltero/a,32,,114588,empleado/a calificado/a / funcionario/a,0
+100001987,Hombre,,21,secundaria,120682,empleado/a calificado/a / funcionario/a,0
+100001988,Mujer,soltero/a,25,,66628,desempleado/a / no calificado/a,0
+100001989,Hombre,,35,secundaria,124447,desempleado/a / no calificado/a,0
+100001990,Hombre,,25,secundaria,106567,desempleado/a / no calificado/a,0
+100001991,Hombre,,31,secundaria,78758,desempleado/a / no calificado/a,0
+100001992,Mujer,soltero/a,54,secundaria,128537,empleado/a calificado/a / funcionario/a,0
+100001993,Hombre,soltero/a,51,secundaria,101074,desempleado/a / no calificado/a,0
+100001994,Hombre,soltero/a,38,secundaria,87670,desempleado/a / no calificado/a,0
+100001995,Mujer,soltero/a,45,secundaria,113414,empleado/a calificado/a / funcionario/a,0
+100001996,Hombre,soltero/a,47,secundaria,123525,desempleado/a / no calificado/a,0
+100001997,Hombre,,27,secundaria,117744,empleado/a calificado/a / funcionario/a,0
+100001998,Mujer,soltero/a,31,,86400,desempleado/a / no calificado/a,0
+100001999,Hombre,,24,secundaria,97968,desempleado/a / no calificado/a,0
+100002000,Mujer,soltero/a,25,,68416,desempleado/a / no calificado/a,0

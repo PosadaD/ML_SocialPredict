@@ -1,0 +1,8 @@
+Nivel Socioeconómico;Min;Max;Descripcion
+A/B;100000;;"Hogares con altos ingresos, alto nivel educativo y acceso a bienes y servicios de lujo."
+C+;50000;100000;"Hogares con ingresos superiores al promedio, buen nivel educativo y acceso a la mayoría de los servicios."
+C;28000;50000;"Hogares con ingresos promedio, nivel educativo medio y acceso a servicios básicos."
+C-;13000;28000;"Hogares con ingresos ligeramente inferiores al promedio, nivel educativo medio-bajo y acceso limitado a algunos servicios."
+D+;7000;13000;"Hogares con ingresos bajos, nivel educativo básico y acceso limitado a servicios."
+D;4000;7000;"Hogares con ingresos muy bajos, bajo nivel educativo y acceso muy limitado a servicios."
+E;0;4000;"Hogares con ingresos mínimos, muy bajo nivel educativo y sin acceso a servicios básicos."
